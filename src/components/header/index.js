@@ -4,14 +4,20 @@ import style from "./style.css";
 
 const Header = () => (
   <header class={style.header}>
-    <h1>Suck me!</h1>
+    <h1>Korean!</h1>
     <nav>
-      {/* <Link activeClassName={style.active} href="/">
+      <Link activeClassName={style.active} href="/">
         Home
       </Link>
-      <Link activeClassName={style.active} href="/profile">
-        Me
-      </Link> */}
+      <Link activeClassName={style.active} href="/lesson_notes">
+        Lesson Notes
+      </Link>
+      <Link activeClassName={style.active} href="/conversations">
+        Conversations
+      </Link>
+      <Link activeClassName={style.active} href="/words">
+        Words
+      </Link>
     </nav>
   </header>
 );

@@ -1,34 +1,48 @@
-import { h } from "preact";
-import { useState } from "preact/hooks";
+import { h, Component } from "preact";
 import style from "./style.scss";
+import languages from "../../data/enums/languages";
 
-const languages = { korean: style.korean, english: style.english };
-const displayLanguages = {
-  [languages.korean]: "Korean",
-  [languages.english]: "English",
-};
+class Card extends Component {
+  constructor(props) {
+    super(props);
 
-const Card = (translation) => {
-  const [language, setLanguage] = useState(languages.korean);
+    this.state = {
+      language: props.initialLanguage,
+    };
 
-  function toggle() {
-    setLanguage(
-      language === languages.korean ? languages.english : languages.korean
-    );
+    this.toggle = this.toggle.bind(this);
   }
 
-  return (
-    <div class={`${style.card} ${language}`}>
-      <p class={`${languages.english} ${style.phrase}`}>
-        {translation.english}
-      </p>
-      <p class={`${languages.korean} ${style.phrase}`}>{translation.korean}</p>
-      <button onClick={toggle}>Show other side</button>
-      <p>
-        <span class={style.languageLabel}>{displayLanguages[language]}</span>
-      </p>
-    </div>
-  );
-};
+  componentDidMount() {
+    document.addEventListener("keypress", ({ charCode }) => {
+      if (charCode == 108) {
+        this.toggle();
+      }
+    });
+  }
+
+  toggle() {
+    this.setState({
+      language:
+        this.state.language === languages.korean
+          ? languages.english
+          : languages.korean,
+    });
+  }
+
+  render() {
+    return (
+      <div class={`${style.card} ${this.state.language}`}>
+        <p class={`${style.phrase}`}>
+          {this.props.translation[this.state.language]}
+        </p>
+        <button onClick={this.toggle}>Show other side</button>
+        <p>
+          <span class={style.languageLabel}>{this.state.language}</span>
+        </p>
+      </div>
+    );
+  }
+}
 
 export default Card;

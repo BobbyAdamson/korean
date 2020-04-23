@@ -1,16 +1,15 @@
 import { h } from "preact";
 import style from "./style";
-import translations from "../../data/translations";
-import Card from "../../components/card/card";
+import alphabet from "../../data/alphabet/index";
+import CardCollection from "../../components/CardCollection/CardCollection";
 
-const Home = () => (
-  <div class={style.home}>
-    <h1>Bobbys Korean shit bitch!</h1>
-    <p>This is all the cards bitch!</p>
-    {translations.map(translation => {
-      return <Card {...translation} />;
-    })}
-  </div>
-);
+const Home = () => {
+  return (
+    <div class={style.home}>
+      <h1>Home</h1>
+      <CardCollection translations={[...alphabet]} />
+    </div>
+  );
+};
 
 export default Home;
