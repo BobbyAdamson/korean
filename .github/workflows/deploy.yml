@@ -32,8 +32,8 @@ jobs:
     - name: FTP-Deploy-Action
       uses: SamKirkland/FTP-Deploy-Action@3.0.0
       with:
-        ftp-server: ftp://ftp.archonapparel.com
+        ftp-server: ftp://ftp.bobbyadamson.com
         ftp-username: github@hangeul.bobbyadamson.com
         ftp-password: ${{ secrets.FTP_PASSWORD }}
         local-dir: build # This folder is NOT going to upload by default unless you add it to .git-ftp-include
-        git-ftp-args: --dry-run --remote-root ./public_html/hangeul
+        git-ftp-args: --dry-run --remote-root public_html/hangeul
