@@ -4,7 +4,6 @@ import style from "./style.css";
 
 const Header = () => (
   <header class={style.header}>
-    <h1>Korean!</h1>
     <nav>
       <Link activeClassName={style.active} href="/">
         Home
@@ -17,6 +16,9 @@ const Header = () => (
       </Link>
       <Link activeClassName={style.active} href="/words">
         Words
+      </Link>
+      <Link activeClassName={style.active} href="/numbers">
+        Numbers
       </Link>
     </nav>
   </header>

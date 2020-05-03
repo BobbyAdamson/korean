@@ -1,7 +1,14 @@
-const general = [
-  ["a little", "jogum"],
-  ["and", ""],
-  ["tree", "나무 (namu)"],
+const occupations = [
+  ["reporter", "기자"],
+  ["researcher", "연구원 (yeonguwon)"],
+  ["accountant", "회계사 (hoegyesa)"],
+  ["professor", "교수 (gyosu)"],
+  ["technician", "기술자 (gisulja"],
+  ["scientist", "과학자 (gwahagja)"],
+  ["hairdresser", "미용사 (miyongsa)"],
+  ["mail carrier/postman", "우체부 (uchebu)"],
+  ["firefighter", "소방관 (sobang-gwan)"],
+  ["businessman", "사업가 (sa-eobga)"],
   ["nose", "코 (kho)"],
   ["shoes", "구두"],
   ["cucumber", "오이"],
@@ -32,9 +39,9 @@ const general = [
   ["magpie", "까치"],
 ];
 
-export default general.map(([english, korean], index) => {
+export default occupations.map(([english, korean], index) => {
   return {
-    id: `wg${index}`,
+    id: `wo${index}`,
     english,
     korean,
   };

@@ -1,6 +1,7 @@
 import { h, Component } from "preact";
 import Card from "../Card/Card";
 import style from "./style.scss";
+import sharedStyles from "../shared.scss";
 
 class CardCollection extends Component {
   constructor(props) {
@@ -22,28 +23,41 @@ class CardCollection extends Component {
     });
   }
 
+  componentDidUpdate(previousProps) {
+    if (previousProps.translations !== this.props.translations) {
+      this.newCard();
+    }
+  }
+
   getRandomCardIndex() {
+    console.log(this.props.translations);
     return Math.floor(Math.random() * this.props.translations.length);
   }
 
   getCard() {
-    return (
+    const isCardPresent =
+      this.props.translations[this.state.cardIndex] !== undefined;
+
+    return isCardPresent ? (
       <Card
         translation={this.props.translations[this.state.cardIndex]}
         initialLanguage={this.props.initialLanguage}
       />
-    );
+    ) : null;
   }
 
   newCard() {
     this.setState({ cardIndex: this.getRandomCardIndex() });
+    console.log(this.state.cardIndex);
   }
 
   render() {
     return (
       <div class={style["card-container"]}>
         {this.getCard()}
-        <button onClick={this.newCard}>Get next card</button>
+        <button onClick={this.newCard} class={sharedStyles.button}>
+          Get next card
+        </button>
       </div>
     );
   }

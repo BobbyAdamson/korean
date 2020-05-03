@@ -2,7 +2,9 @@ import { h } from "preact";
 import { useState } from "preact/hooks";
 import CardCollection from "../../components/CardCollection/CardCollection";
 import words, { grouped } from "../../data/words/index";
+import trouble from "../../data/words/trouble";
 import languages from "../../data/enums/languages";
+import CardCollectionPage from "../../components/CardCollectionPage/CardCollectionPage";
 
 const Words = () => {
   const categories = Object.keys(grouped);
@@ -20,6 +22,9 @@ const Words = () => {
   function getMenu() {
     function buildCheckboxes() {
       return categories.map((category) => {
+        console.log("From inside get menu: ", categoriesToUse);
+        console.log("From inside get menu: ", category);
+
         return (
           <li key={`${category}-row`}>
             <label for={`${category}-category`}>
@@ -44,11 +49,12 @@ const Words = () => {
   }
 
   function handleCategoryChange(e) {
+    console.log(e);
     const categoryToChange = e.target.name;
     const isChecked = e.target.checked;
 
-    if (categoriesToUse.length < 2) {
-      return;
+    if (categoriesToUse.length < 2 && !isChecked) {
+      setCategories(categoriesToUse);
     }
 
     const newCategories = isChecked

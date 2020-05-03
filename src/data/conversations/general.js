@@ -3,7 +3,7 @@ const general = [
   ["I'm sorry (formal)", "jesonghamnida"],
   ["How is it going?", "ottoke jinessoyo?"],
   ["Any questions?", "jilmun itssoyo?"],
-  ["See you next week", "다음주에 만나요 (da-eumjue mannayo)"],
+  ["See you next week", "다음주에 만나요 (da-eum-ju-ay mannayo)"],
 ];
 
 export default general.map(([english], index) => {

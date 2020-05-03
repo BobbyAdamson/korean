@@ -7,9 +7,11 @@ const jobs = [
     "I am not a police officer",
     "저는 _이/가 아니에요 (jonun geyongchaeli aniyeyo",
   ],
+  ["I am also a cop", "저도 geyongchaeli yeyo"],
+  ["My job is singer", "je jigobun kasuyeyo"],
+  ["I am not a singer", "저는 가수가 아니에요 (jonun kasuka aniyeyo"],
   ["I am a singer", "저는 kasu 예요 (jonun kasuyayo)"],
-  ["Are you a [job]?"],
-  ["No, I am not a [job]"],
+  ["Are you a [job]?", "Robert-shi-nun kasuyeyo?"],
 ];
 
 export default jobs.map(([english, korean], index) => {

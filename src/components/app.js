@@ -8,6 +8,7 @@ import Home from "../routes/home";
 import Conversations from "../routes/conversations";
 import Words from "../routes/words";
 import LessonNotes from "../routes/lesson_notes";
+import Numbers from "../routes/numbers";
 
 export default class App extends Component {
   /** Gets fired when the route changes.
@@ -27,6 +28,7 @@ export default class App extends Component {
           <LessonNotes path="/lesson_notes" />
           <Conversations path="/conversations" />
           <Words path="/words" />
+          <Numbers path="/numbers" />
         </Router>
       </div>
     );

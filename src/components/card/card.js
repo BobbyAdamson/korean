@@ -1,6 +1,7 @@
 import { h, Component } from "preact";
 import style from "./style.scss";
 import languages from "../../data/enums/languages";
+import sharedStyles from "../shared.scss";
 
 class Card extends Component {
   constructor(props) {
@@ -11,14 +12,21 @@ class Card extends Component {
     };
 
     this.toggle = this.toggle.bind(this);
+    this.toggleOnKeyPress = this.toggleOnKeyPress.bind(this);
   }
 
   componentDidMount() {
-    document.addEventListener("keypress", ({ charCode }) => {
-      if (charCode == 108) {
-        this.toggle();
-      }
-    });
+    window.addEventListener("keypress", this.toggleOnKeyPress, true);
+  }
+
+  componentDidUnmount() {
+    window.removeEventListener("keypress", this.toggleOnKeyPress, true);
+  }
+
+  toggleOnKeyPress({ charCode }) {
+    if (charCode == 108) {
+      this.toggle();
+    }
   }
 
   toggle() {
@@ -36,7 +44,12 @@ class Card extends Component {
         <p class={`${style.phrase}`}>
           {this.props.translation[this.state.language]}
         </p>
-        <button onClick={this.toggle}>Show other side</button>
+        <button
+          onClick={this.toggle}
+          class={`${sharedStyles.button} ${sharedStyles.tertiary}`}
+        >
+          Show other side
+        </button>
         <p>
           <span class={style.languageLabel}>{this.state.language}</span>
         </p>

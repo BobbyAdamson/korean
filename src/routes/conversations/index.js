@@ -5,7 +5,7 @@ import conversations, { grouped } from "../../data/conversations/index";
 import languages from "../../data/enums/languages";
 
 const Conversations = () => {
-  const categories = ["jobs", "origin"];
+  const categories = Object.keys(grouped);
   const [categoriesToUse, setCategories] = useState(categories);
 
   function getTranslationData() {

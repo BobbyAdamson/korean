@@ -9,7 +9,6 @@ const LessonNotes = () => {
 
   return (
     <div class={style.docs}>
-      <h1>Lesson Notes</h1>
       <Markdown markdown={lesson3} />
     </div>
   );

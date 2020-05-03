@@ -1,0 +1,15 @@
+.button {
+  font-size: 1.2rem;
+  border-radius: 7px;
+  padding: 10px 15px;
+  background: #3895d3;
+  color: #fff;
+  &:hover {
+    cursor: pointer;
+  }
+}
+
+.button.tertiary {
+  font-size: 1rem;
+  padding: 5px 10px;
+}
