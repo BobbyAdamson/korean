@@ -1,5 +1,4 @@
 import { h } from "preact";
-import style from "./style.scss";
 import Markdown from "preact-markdown";
 
 const LessonNotes = () => {
@@ -8,7 +7,7 @@ const LessonNotes = () => {
   } = require("../../data/docs/lesson_notes/lesson3.md");
 
   return (
-    <div class={style.docs}>
+    <div>
       <Markdown markdown={lesson3} />
     </div>
   );

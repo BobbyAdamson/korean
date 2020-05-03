@@ -10,6 +10,8 @@ import Words from "../routes/words";
 import LessonNotes from "../routes/lesson_notes";
 import Numbers from "../routes/numbers";
 
+import sharedStyles from './shared.scss';
+
 export default class App extends Component {
   /** Gets fired when the route changes.
    *	@param {Object} event		"change" event from [preact-router](http://git.io/preact-router)
@@ -23,13 +25,15 @@ export default class App extends Component {
     return (
       <div id="app">
         <Header />
-        <Router onChange={this.handleRoute}>
-          <Home path="/" />
-          <LessonNotes path="/lesson_notes" />
-          <Conversations path="/conversations" />
-          <Words path="/words" />
-          <Numbers path="/numbers" />
-        </Router>
+        <article class={sharedStyles.page} >
+          <Router onChange={this.handleRoute}>
+            <Home path="/" />
+            <LessonNotes path="/lesson_notes" />
+            <Conversations path="/conversations" />
+            <Words path="/words" />
+            <Numbers path="/numbers" />
+          </Router>
+        </article>
       </div>
     );
   }
