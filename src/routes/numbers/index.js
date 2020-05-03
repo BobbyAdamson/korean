@@ -2,7 +2,6 @@ import { h } from "preact";
 import { useState } from "preact/hooks";
 
 const Numbers = () => {
-  const [selection, updateSelection] = useState(Object.keys(numbers)[0]);
   const initialSelection = Object.keys(numbers)[0];
   const [numberAndSelection, setNumberAndSelection] = useState({
     number: getNumber(initialSelection),
@@ -34,7 +33,7 @@ const Numbers = () => {
         {Object.entries(numbers).map(([key, [n1, n2]]) => {
           const text = key === "hundreds" ? "100's" : `${n1} - ${n2}`;
           return (
-            <option value={key} selected={key === selection}>
+            <option value={key} selected={key === numberAndSelection.selection}>
               {text}
             </option>
           );
