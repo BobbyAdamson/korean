@@ -51,7 +51,6 @@ class CardCollectionPage extends Component {
   }
 
   handleCategoryChange(e) {
-    console.log(e);
     const categoryToChange = e.target.name;
     const isChecked = e.target.checked;
 

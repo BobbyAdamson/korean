@@ -30,7 +30,6 @@ class CardCollection extends Component {
   }
 
   getRandomCardIndex() {
-    console.log(this.props.translations);
     return Math.floor(Math.random() * this.props.translations.length);
   }
 
@@ -48,7 +47,6 @@ class CardCollection extends Component {
 
   newCard() {
     this.setState({ cardIndex: this.getRandomCardIndex() });
-    console.log(this.state.cardIndex);
   }
 
   render() {
