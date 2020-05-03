@@ -22,9 +22,6 @@ const Words = () => {
   function getMenu() {
     function buildCheckboxes() {
       return categories.map((category) => {
-        console.log("From inside get menu: ", categoriesToUse);
-        console.log("From inside get menu: ", category);
-
         return (
           <li key={`${category}-row`}>
             <label for={`${category}-category`}>
@@ -49,7 +46,6 @@ const Words = () => {
   }
 
   function handleCategoryChange(e) {
-    console.log(e);
     const categoryToChange = e.target.name;
     const isChecked = e.target.checked;
 

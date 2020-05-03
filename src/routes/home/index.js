@@ -1,5 +1,4 @@
 import { h } from "preact";
-import style from "./style";
 import { useState } from "preact/hooks";
 import alphabet, { grouped } from "../../data/alphabet/index";
 import CardCollection from "../../components/CardCollection/CardCollection";
@@ -21,9 +20,6 @@ const Home = () => {
   function getMenu() {
     function buildCheckboxes() {
       return categories.map((category) => {
-        console.log("From inside get menu: ", categoriesToUse);
-        console.log("From inside get menu: ", category);
-
         return (
           <li key={`${category}-row`}>
             <label for={`${category}-category`}>
@@ -64,8 +60,7 @@ const Home = () => {
 
   return (
     <div>
-      <h1>Words</h1>
-      <h2>It worked!</h2>
+      <h1>Alphabet</h1>
       {getMenu()}
       <CardCollection
         translations={[...getTranslationData()]}
