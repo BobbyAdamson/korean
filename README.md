@@ -1,5 +1,7 @@
 # korean
 
+Project initialized with the Preact CLI.
+
 ## CLI Commands
 
 ``` bash
