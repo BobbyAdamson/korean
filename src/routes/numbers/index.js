@@ -3,15 +3,34 @@ import { useState } from "preact/hooks";
 
 const Numbers = () => {
   const [selection, updateSelection] = useState(Object.keys(numbers)[0]);
+  const initialSelection = Object.keys(numbers)[0];
+  const [numberAndSelection, setNumberAndSelection] = useState({
+    number: getNumber(initialSelection),
+    selection: initialSelection
+  });
 
-  function getNumber() {
+  function getNumber(selection) {
     const maxNumber = selection === "hundreds" ? null : numbers[selection][1];
     return maxNumber ? Math.ceil(Math.random() * maxNumber) : 0;
   }
 
+  function setSelection(selection) {
+    setNumberAndSelection({
+      number: getNumber(selection),
+      selection,
+    });
+  }
+
+  function setNewNumber() {
+    setNumberAndSelection({
+      ...numberAndSelection,
+      number: getNumber(numberAndSelection.selection)
+    });
+  }
+
   return (
     <div>
-      <select onChange={(e) => updateSelection(e.target.value)}>
+      <select onChange={(e) => setSelection(e.target.value)}>
         {Object.entries(numbers).map(([key, [n1, n2]]) => {
           const text = key === "hundreds" ? "100's" : `${n1} - ${n2}`;
           return (
@@ -21,8 +40,8 @@ const Numbers = () => {
           );
         })}
       </select>
-      <p>{getNumber()}</p>
-      {/* <button onClick={}>Next number</button> */}
+      <p>{numberAndSelection.number}</p>
+      <button onClick={setNewNumber}>Next number</button>
     </div>
   );
 };
