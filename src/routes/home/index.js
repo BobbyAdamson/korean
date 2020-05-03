@@ -48,7 +48,6 @@ const Home = () => {
   }
 
   function handleCategoryChange(e) {
-    console.log(e);
     const categoryToChange = e.target.name;
     const isChecked = e.target.checked;
 
@@ -66,6 +65,7 @@ const Home = () => {
   return (
     <div>
       <h1>Words</h1>
+      <h2>It worked!</h2>
       {getMenu()}
       <CardCollection
         translations={[...getTranslationData()]}
