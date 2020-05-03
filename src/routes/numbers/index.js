@@ -1,5 +1,6 @@
 import { h } from "preact";
 import { useState } from "preact/hooks";
+import style from './style.scss';
 
 const Numbers = () => {
   const initialSelection = Object.keys(numbers)[0];
@@ -13,13 +14,6 @@ const Numbers = () => {
     return maxNumber ? Math.ceil(Math.random() * maxNumber) : 0;
   }
 
-  function setSelection(selection) {
-    setNumberAndSelection({
-      number: getNumber(selection),
-      selection,
-    });
-  }
-
   function setNewNumber() {
     setNumberAndSelection({
       ...numberAndSelection,
@@ -27,8 +21,15 @@ const Numbers = () => {
     });
   }
 
+  function setSelection(selection) {
+    setNumberAndSelection({
+      number: getNumber(selection),
+      selection,
+    });
+  }
+
   return (
-    <div>
+    <div class={style.centered}>
       <select onChange={(e) => setSelection(e.target.value)}>
         {Object.entries(numbers).map(([key, [n1, n2]]) => {
           const text = key === "hundreds" ? "100's" : `${n1} - ${n2}`;
@@ -39,7 +40,7 @@ const Numbers = () => {
           );
         })}
       </select>
-      <p>{numberAndSelection.number}</p>
+      <p class={style.number}>{numberAndSelection.number}</p>
       <button onClick={setNewNumber}>Next number</button>
     </div>
   );
