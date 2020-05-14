@@ -13,14 +13,15 @@
 - (외)할머니
 - 아버지
 - 어머니
-- 여동생.남동생
+- 여동생 (little sister)
+- 남동생 (little brother)
 - 이모,이모부
 - 고모
 - 고모부
-- 형
-- 누나
-- 언니
-- 오빠
+- 형 (older brother for male)
+- 누나 (older sister for male)
+- 언니 (older sister for female)
+- 오빠 (older brother for female)
 
 ### Key structure
 
