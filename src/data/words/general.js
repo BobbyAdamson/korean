@@ -30,6 +30,19 @@ const general = [
   ["ostrich", "타조"],
   ["headband", "머리띠"],
   ["magpie", "까치"],
+  ['meat', '고기'],
+  ['watermelon', '수박'],
+  ['chicken', '닭'],
+  ['time', '시간'],
+  ['walk', '걷다'],
+  ['daytime', '낮'],
+  ['fruit', '과일'],
+  ['name', '이름'],
+  ['house', '집'],
+  ['side', '옆'],
+  ['bag', '가방'],
+  ['gimchi', '김치'],
+  ['restroom', '화장실']
 ];
 
 export default general.map(([english, korean], index) => {
