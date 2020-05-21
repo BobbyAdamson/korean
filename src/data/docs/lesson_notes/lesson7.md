@@ -1,3 +1,36 @@
+Key structures  : p65,66
+
+- 이, 그, 저  : 이/그/저 + 명사(Noun) <- Things OK, People OK.
+
+- 이 사람, 그 사람, 저 사람(This/that/that person)
+
+- 이거, 그거, 저거 = 이/그/저 + 명사(noun)  :  Things OK, People X
+
+- : 이거/그거/저거 주세요.(Give me this/that/that)
+
+- 이게,그게, 저게 = 이거/그거/저거 + 가
+
+- : 이게/그게/저게 뭐예요?(What's this/that/that?) - 예요/이에요.(This/that/that is ____.)
+
+-  이게 /그게/저게 누구 거예요?(Whose is this/that/that?)  - 이건/그건/저건 ____거예요.(This/that/that is ____'s)
+
+- * mine : 내 거/제 거(honorific expression)         my ; 내 / 제
+
+- 이건, 그건, 저건 = 이거/그거/저거 + 는
+
+- : 이건/그건.저건 뭐예요?(What's this/that/that?) - 이건/그건/저건 ___예요/이에요.(This/that/that is ____,)
+
+- 여기, 거기, 저기(here/there/over there)
+
+- 이게 어디에 있어요?(Where is this?) - 여기에/거기에/.저기에 있어요(It is here/there/over there.)
+
+
+### Homework
+- Memorize key structure
+- Preparing for final semester assessments(Listening, writing and speaking)
+
+
+
 # 05/07/2020
 
 ## Review
