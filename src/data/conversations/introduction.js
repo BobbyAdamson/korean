@@ -5,14 +5,14 @@ const introductions = [
   ["Any questions?"],
   ["Nice to meet you"],
   ["I am Robert"],
-  ["Bye! (you are leaving)"],
-  ["Bye! (other person leaving)"],
+  ["Bye! (you are leaving)", 'kay-say'],
+  ["Bye! (other person leaving)", 'kah-say'],
 ];
 
-export default introductions.map(([english], index) => {
+export default introductions.map(([english, korean = 'No korean yet lol'], index) => {
   return {
     id: `ci${index}`,
     english,
-    korean: "No korean yet lol",
+    korean
   };
 });
