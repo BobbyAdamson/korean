@@ -2,9 +2,7 @@ import { h } from "preact";
 import { useState } from "preact/hooks";
 import CardCollection from "../../components/CardCollection/CardCollection";
 import words, { grouped } from "../../data/words/index";
-import trouble from "../../data/words/trouble";
 import languages from "../../data/enums/languages";
-import CardCollectionPage from "../../components/CardCollectionPage/CardCollectionPage";
 
 const Words = () => {
   const categories = Object.keys(grouped);
@@ -40,6 +38,13 @@ const Words = () => {
 
     return (
       <nav>
+        <button
+          onClick={() => {
+            setCategories([]);
+          }}
+        >
+          Deselect all
+        </button>
         <ul>{buildCheckboxes()}</ul>
       </nav>
     );
