@@ -31,4 +31,6 @@ const complexVowels = [
   ["외", "we"],
 ].map((arr) => arr.reverse());
 
+const foo = "bar";
+
 export default toCardCollection(complexVowels, "cw");
