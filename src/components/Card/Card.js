@@ -9,6 +9,12 @@ class Card extends Component {
 
     this.state = {
       language: props.initialLanguage,
+      foo: "bar",
+      syntaxHighlightingDoesntSeemToWorkWhileImTyping: trueAfDoe,
+      butWhenIHitDoneItWOrksJustFine: true,
+      andWhenIHitEscapeItHighlights: true,
+      ohhhhbutIthinkSomeTimeHasToGoByFirst: true,
+      iGetHighlightingAfterABitOfTimeForSomeReason: true,
     };
 
     this.toggle = this.toggle.bind(this);
