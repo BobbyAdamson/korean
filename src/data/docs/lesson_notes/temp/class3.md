@@ -41,3 +41,5 @@ Oral test
   - 몇 시에 __ 가요?
 2. What do you do after ___?
   - ___ 후에 뭐 해요?
+3. What time do you eat?
+  - 몇 시에 아침을 먹어요?
