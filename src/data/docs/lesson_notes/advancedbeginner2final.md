@@ -121,7 +121,7 @@ Structures
       - 하와이에 뭐가 있어요?
       - 하와이에 예쁜 바더가 있어요.
     - 하지만 ____에 (thing) 없어요 - It doesn't have
-    - 아름답는 도시예요. - Its a lovely town
+    - 아름다운 도시예요. - Its a lovely town
 - Talking about abstract nouns
   - Vs talking about definite nouns
     - 어디에 가고 싶어요? - Where do you want to go?
@@ -168,19 +168,7 @@ Vocab
     - 아무 거나 - Anything
     - 아무 때나 - Anytime
 - Verbs
-  - 길다
-  - 무겁다
-  - 높다
-  - 크다
-  - 어렵다
-  - 비싸다
-  - 편하다
-  - 좋다
-  - 많다
-  - 재미있다
-  - 빠르다
-  - 조용하다
-  - 날씬하다
+  -
   - 건너다 - cross
   - 걸어가다 - walk
   - 들어가다 - go in
@@ -194,8 +182,21 @@ Vocab
   - 올라오다 - come up
   - 내려가다 - go down
   - 내려오다 - come down
+  - 길다 - long
+  - 무겁다 - heavy
+  - 높다 - high
+  - 크다 - big
+  - 어렵다 - difficult
+  - 비싸다 - expensive
+  - 편하다 - comforrtable
+  - 좋다 - good
+  - 많다 - a lot
+  - 재미있다 - fun
+  - 빠르다 - fast
+  - 조용하다 - quiet
+  - 날씬하다 - slim
 - Nouns
-  - 동물이
+  - 동물이 - Animals
   - 도시 - City
   - 현금 - cash
   - 카드 - card
@@ -205,32 +206,30 @@ Vocab
   - 골목 - alley
   - 지하도 - underpass
   - 신호등 - traffic lights
-  - 지하철역
-  - 센트럴파크
-  - 홀푸드
-  - 버스 터미널
-  - 기차역(train station),
-  - K-town,
-  - 백화점,
+  - 박물관의 - Museum
   - 우체국 - post office
   - 하교 - School
-  - Transportation
-    - 택시 - taxi
-    - 지하철 - subway
-    - 자전거 - bicycle
-    - 비행기 - airplane
-    - 공항 버스 - Airport bus
-    - 스키 - Ski
-  - Directions
-    - 앞 - in front
-    - 옆 - Next to
-    - 다음 역 - Next station
+  - 해변 - Beach
+  - 산 - mountain
+  - 센트럴파크 - Central park
+  - 버스 터미널 - bus terminal
+  - 생기 있는 마을이에요 - It's a lively town.
+
+Questions
+- 제주도 가 봤어요? - have you been to jeju?
+- 언젠가, 서울과 제주두에 가고 싶어요. - Someday I want to go to Korea and Jeju
+- 많이 TV에서 제주도를 봐요
+- 하이킹, 수영할 거예요 - I will hike and swim
+- 서울에서 제주도까지 어떻게 가요? - From seoul to jeju how do I go?
+- 제주도까지 멀어요? - Is Jeju far?
+- 제주도까지 얼마나 걸여요? - how long does it take?
+- 제주도까지 얼마예요? - how much is it?
 
 - Specific things
   - 코로나로 위험하다
-  - 살이 찌다
-  - 일이 있다
-  - 돈이 없다
+  - 살이 찌다 - GAIN WEIGHT
+  - 일이 있다 - have work to do
+  - 돈이 없다 - have no money
 
 To study
 - Directions (front, next to, left, right, etc)
@@ -277,3 +276,7 @@ Write a thing
 - what it has
 - Why its the best at a thing
 - What you want to try when you go
+
+Home to JFK
+How do I get from home to JFK?
+Uber is fastest but subway is cheaper
