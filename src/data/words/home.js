@@ -36,7 +36,7 @@ const home = [
   ["냉장고", "fridge"],
   ["식탁", "dining table"],
   ["의자", "chair"],
-  ["오븐", "oven"],
+  ["오븐", "oven],
   ["가스레인지", "gas range"],
   ["싱크대", "sik"],
   ["전자레인지", "range"],
