@@ -10,11 +10,13 @@ Key Structure practice at Restaurant.
 (Dining Conversation)
 
 (before eating)
+
 - 잘 먹겠습니다
 - 잘 먹을게요
 - 잘 먹을게
 
 (After eating)
+
 - 잘 먹었습니다.
 - 잘 먹었어요
 - 잘 먹었어.
@@ -31,3 +33,8 @@ Key Structure practice at Restaurant.
 - 아울렛,
 - 마트,
 - 바
+
+일곱
+여덟
+아홉
+십

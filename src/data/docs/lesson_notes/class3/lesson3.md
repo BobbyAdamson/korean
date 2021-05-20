@@ -1,0 +1,8 @@
+1. 몇 시에 자요? (What time do you go to bed?)
+2. 저는 보통 12시쯤 자요.(I usually go to bed at 12 o’clock.)
+3. 몇 시에 일어나요? (What time do you get up?)
+4. 하루에 보통 얼마나 일해요? (About how long do you work per day?)
+5. 하루에 보통 얼마나 공부해요? (About how long do you study per day?)
+6. 저는 보통 2시간쯤 공부해요. (I usually study for about 2 hours.)
+7. 오늘은 무슨 요일이에요? (What day is it today?)
+8. 무슨 요일에 한국어 수업이 있어요? (What day do you have Korean classes?)

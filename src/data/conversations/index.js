@@ -1,4 +1,4 @@
-import food from './food';
+import food from "./food";
 import introduction from "./introduction";
 import job from "./job";
 import origin from "./origin";
@@ -27,7 +27,4 @@ export const grouped = {
   // general,
   // food,
   // introduction,
-  // job,
-  // origin,
-  // thisthat,
-};
+}
