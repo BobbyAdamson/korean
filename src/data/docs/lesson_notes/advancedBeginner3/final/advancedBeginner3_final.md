@@ -21,6 +21,7 @@
   B. 친구 만나고 쇼핑을 했어요.
 
 - Lesson 4 - Verb/noun time
+
   - Present/future
     A. 쉴 때 뭐 해요? / 쉬는 날에 뭐 해요?
     B. 쉴 때 기타 쳐요
@@ -32,6 +33,15 @@
     B. 그럼요
     A. 언제 먹어 봤어요?
     B. 작년에 한국에 왔을 때 처음 먹어 봤어요
+
+  - Lesson 6
+    - 전에 / 후에
+    - N + 전에 / N + 후에
+    - V stem + 기 + 전에
+    - V stem + 은 + 후에
+    - Conversations
+      - 언제 영화 봤어요?
+      - 일주일 전에 봤어요
 
 ## Conjugations
 
@@ -89,7 +99,7 @@
       A. 어제 뭐 했어요?
       B. 친구를 만나고 (그리고) 쇼핑을 했어요.
 - Express a time when an action occurs:
-  - Verb + ㄹ 때
+  - Verb stem + ㄹ 때
     - Examples:
       - 공부할 때
       - 좋을 때
@@ -97,6 +107,34 @@
       - 들을 때
       - 더울 때
   - Noun + 때
+- Express permission/prohibition:
+  - Permission:
+    - Verb 요 + 도 돼요/괜찮아요?
+    - Examples:
+      - 가도 돼요?
+      - 해도 돼요?
+  - Prohibition:
+    - Batchim: Verb stem + 으면 안 돼요
+    - No batchim/ㄹ batchim: Verb stem + 면 안 돼요
+- Express need/must:
+  - Verb stem + 지 안으면 안 돼요
+  - Verb 요 form + 야 돼요
+  - Examples:
+    - 공부하지 안으면 아 돼요
+    - 공부해야 돼요
+- Future plans:
+  - What youre doing
+    - Verb ㄹ 거예요
+    - Ex
+      - 갈 거예요
+      - 할 거예요
+      - 먹을 거예요
+  - Willingness - determined plan
+    - Verb stem + 겠어요
+    - Ex
+      - 가겠어요
+      - 먹겠어요
+      - 하겠어요
 
 ## Vocab
 
@@ -145,7 +183,40 @@
 눈코 뜰 새 없이 바빠요 - I’m extremely busy now
 엄청 긴장되고 떨려요 - I’m extremely nervous and trembling
 자신이 없어요 - I’m not confident
+재미있었어요 - It was interesting/fun
+무서웠어요 - it was scary
+슬펐어요 - it was sad
+지루했어요 - it was boring
+감동적이었어요 -
+재미없었어요 - it was not interesting
+아름다웠어요 - it was beautiful
+웃겼어요. - funny
+좋았어요. - good
+힘들었어요. - hard
+즐거웠어요. - have a good time
+피곤했어요. - i was tired
+너무 ~~~. - too ~~~
 
+즐거워요 - happy
+외로워요 - lonely
+슬퍼요 - sad
+놀라워요 - Surprised
+
+오전 - AM
+오후 - PM
+결혼식 - Wedding
+편지 - Letter
+보내다 - Send
+청소 - Cleaning
+빨래 - laundry
+설거지 - wash dishes
+식료품 장보기 - grocery shopping
+쓰레기 버리기 - throwing away trash
+쓰레기 내놓다 - take out the trash
+동물/개 산책하다 - Walk dog
+병원 예약 - hospital reservation (doctor appointment)
+회의 - Meeting
+약속 - Appointment
 치다 - To hit/play
 말하다 - speaking
 듣다 - listening
@@ -166,5 +237,123 @@
 신문이나 잡지에 나오다 - to appear in newspaper or magazines (probably less important)
 물건 - thing/object (probably less important)
 자유시간 - Spare time
+사용하다 - Use
+들어가다 - Go in
+사진 찍다 - Take picture
+바끄다 - change/exchange (seats)
+날씨 - weather
+우체국 - Post office
+어제 - Yesterday
+월요일 - Monday
+화요일 - Tuesday
+수요일 - wednesday
+목요일 - thursday
+금요일 - friday
+토요일 - saturday
+일요일 - sunday
+병원 - Hospital
+시험 - Exam/test
+작년 - Last year
+올해 - This year
+내년 - Next year
+한달 - one month
+두달 - two months
+석달 - three months
+사개월 - four months
+오게월 - 5 months
+일월 - January
+이월 - February
+삼월 - March
+사월 - April
+오월 - May
+유월 - June
+칠월 - July
+팔월 - August
+구월 - September
+시월 - October
+십일월 - November
+십이월 - December
+한 시 - 1 o’clock (hanshi)
+두 시 - 2 o’clock (dooshi)
+세 시 - 3 o’clock (seshi)
+네 시 - 4 o’clock (neshi)
+다섯 시 - 5 o’clock (daseosshi)
+여섯 시 - 6 o’clock (yeoseosshi)
+일곱 시 - 7 o’clock (ilgopshi)
+여덟 시 - 8 o’clock (yeodulshi)
+아홉 시 - 9 o’clock (ahopshi)
+열 시 - 10 o’clock (yeolshi)
+열한 시 - 11 o’clock (yeolhanshi)
+열두 시 - 12 o’clock (yeoldooshi)
+십오분 - 15 minutes (shipoboon)
+삼십분 - 30 minutes (samshipboon) (You can also say BAN, which means “half”)
+사십오분 - 45 minutes (sashipoboon)
 
-## Random
+## Phrases
+
+쉬는 날에 뭐 해요? - What do you do in your free time?
+쉴 때 뭐 해요? - What do you do in your free time?
+어제 뭐 했어요? - What did you do yesterday?
+쉴 때 텔레비전을 봐요. - I watch tv when I rest
+아무 데도 안 갔어요 - I didnt go anyhwere
+아무 것도 안 했어요 - I didnt do anything
+아무 도 안 만났어요 - I didnt meet anyone
+일요일에 음악회가 있어요. - Theres a concert on sunday
+일곱시에 식당에 갈 거예요. - I will go to the restaurant at 7
+최근에 영화를 봤어요? 어땠어요? - Have you seen a movie recently? How was it?
+슬펐어요 그렇지만 또한 아름다웠어요 - It was said but it was also beautiful
+우체국에 갈 때 이 편지를 보내 주세요. - When you go to the post office, mail this letter
+공부하지 안으면 아 돼요 / 공부해야 돼요 - I must study
+출근 전에 쓰레기를 내놓지 않으면 안 돼요. - Before going to work, you should bring out the trash.
+출근 전에 쓰레기를 내놓아야 돼요. - Before going to work, you should bring out the trash.
+집에서 실거지 해요 - At my house I do the dishes
+개 산책하기 - walk pet
+뭐가 제일 좋아요? - Which do you like best
+먹기 전에 손 깨끗해 주세요 - before you eat clean your hands
+막은 후에 설거지해요 - After I eat I do the dishes
+한국에 간 적이 없어요 / 한국에 가 본 적이 없어요 - I havent been to korea
+central park 간 적이 있어요 / central park 간 본 적이 있어요 - I have been to central park
+고향 친구 만났을 때 술을 많이 마셨어요 - When I meet my friend from home i drank a lot
+오늘 달릴 거예요 - I will run today
+올해 운동하겠어요 - I will exercise this year
+천천히 말해 주세요 - Please speak slowly
+날씨 어땠어요? - How was the weather?
+아주 좋았어요 - Very good
+갔다 왔어요 - I went there
+
+## Homework
+
+올해 저는 **\_\_\_**겠어요
+
+- 올해 저는 가족 하고 여행 가겠어요
+- 올해 운동하겠어요
+- 올해 잘 먹겠어요
+
+For the final:
+
+## Potential questions
+
+- What are your hobbies? (취미)
+- In your freetime what do you do? (쉴 때 뭐 해요?)
+- When were you happy? / When were you tired? (ㄹ 때)
+- This weekend what will you do? (거예요)
+- A week ago what did you do? (전에)
+- How was it? (Emotion verb 그리고 emotion verb)
+- Can I do x (도 돼요?)
+
+- Plan to ask
+
+  - What did you do before class today?
+    - 오늘 수업 전에 뭐 했어요?
+  - Can we go to hills learning for the next class?
+    - 올해 우리 힐스 러닝에 가도 돼요?
+  - 남대문시장에 가 본 적 있어요?
+  - What did you eat when you were there?
+    - 남대문시장에 갔을 때 뭐 먹었어요?
+  - How was the food? Next year I am going to Korea and I want to eat there
+    - 내년에 한국에 가겠어요
+    - 저는 여친 가족하고 갈 거예요
+    - 아직 비행기 표르 사지 않았어요 - I havent bought a plane ticket yet
+    - 겨울 전에 갈 거예요 - we will go before winter
+
+- Questions for teacher

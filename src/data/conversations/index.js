@@ -4,10 +4,12 @@ import job from "./job";
 import origin from "./origin";
 import general from "./general";
 import thisthat from './thisthat';
-import adv2final from './adv2final';
+// import adv2final from './adv2final';
+import advbeg3final from './advbeg3final';
 
 export default [
-  ...adv2final,
+  ...advbeg3final
+  // ...adv2final,
   // ...general,
   // ...introduction,
   // ...job,
@@ -23,7 +25,8 @@ export default [
 ];
 
 export const grouped = {
-  adv2final
+  // adv2final
+  advbeg3final
   // general,
   // food,
   // introduction,
