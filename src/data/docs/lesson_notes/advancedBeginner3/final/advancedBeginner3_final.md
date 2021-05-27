@@ -325,9 +325,9 @@ central park 간 적이 있어요 / central park 간 본 적이 있어요 - I ha
 
 올해 저는 **\_\_\_**겠어요
 
-- 올해 저는 가족 하고 여행 가겠어요
-- 올해 운동하겠어요
-- 올해 잘 먹겠어요
+- 가족 하고 여행 가기
+- 운동하가
+- 잘 먹가
 
 For the final:
 
@@ -347,7 +347,8 @@ For the final:
     - 오늘 수업 전에 뭐 했어요?
   - Can we go to hills learning for the next class?
     - 올해 우리 힐스 러닝에 가도 돼요?
-  - 남대문시장에 가 본 적 있어요?
+  - Have you been to namdaemun market?
+    - 남대문시장에 가 본 적 있어요?
   - What did you eat when you were there?
     - 남대문시장에 갔을 때 뭐 먹었어요?
   - How was the food? Next year I am going to Korea and I want to eat there

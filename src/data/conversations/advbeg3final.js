@@ -153,7 +153,22 @@ const advbeg3final = [
 ["석달", "three months"]
 ];
 
-export default advbeg3final.map(
+const hard = [
+  ["놀라워요", "Surprised"],
+  ["즐거웠어요 / 즐거워요 / 즐겁다", "Have good time"],
+  ["웃겼어요.", "made me laugh"],
+  ["웃었어요", "funny"],
+  ["외로워요", "lonely"],
+  ["청소", "Cleaning"],
+  ["빨래", "laundry"],
+  ["설거지", "wash dishes"],
+  ["식료품 장보기", "grocery shopping"],
+  ["쓰레기 버리기", "throwing away trash"],
+  ["쓰레기 내놓다", "take out the trash"],
+  ["동물/개 산책하다", "Walk dog"]
+]
+
+export default hard.map(
   ([korean = "no korean yet", english], index) => {
     return {
       id: `fo${index}`,
