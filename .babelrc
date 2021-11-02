@@ -2,7 +2,12 @@
   "env": {
     "test": {
       "presets": [
-        ["preact-cli/babel", { "modules": "commonjs" }]
+        ["preact-cli/babel", { "modules": "commonjs" }],
+        ["@babel/preset-typescript", { "jsxPragma": "h" }],
+        "@babel/env"
+      ],
+      "plugins": [
+        ["@babel/transform-react-jsx", { "pragma": "h" }]
       ]
     }
   }
