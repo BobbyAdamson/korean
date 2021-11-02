@@ -2,7 +2,11 @@ import CardCollectionPage from "../../components/CardCollectionPage/CardCollecti
 import conversations, { grouped } from "../../data/conversations/index";
 
 const Conversations = () => (
-  <CardCollectionPage grouped={grouped} allCardData={conversations} />
+  <CardCollectionPage 
+    grouped={grouped} 
+    allCardData={conversations} 
+    title={'Conversations'}
+  />
 );
 
 export default Conversations;

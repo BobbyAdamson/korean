@@ -7,9 +7,10 @@ import CardData from "../../utilities/types/CardData";
 interface CardCollectionPageProps {
   allCardData: CardData[];
   grouped: any;
+  title: string;
 }
 
-const CardCollectionPage = ({ allCardData, grouped }: CardCollectionPageProps) => {
+const CardCollectionPage = ({ allCardData, grouped, title }: CardCollectionPageProps) => {
   const categories = Object.keys(grouped);
   const [categoriesToUse, setCategories] = useState(categories);
 
@@ -43,7 +44,7 @@ const CardCollectionPage = ({ allCardData, grouped }: CardCollectionPageProps) =
 
   return (
     <div>
-      <h1>Alphabet</h1>
+      <h1>{title}</h1>
       {renderMenu()}
       <CardCollection
         cardDatas={[...getTranslationData()]}
