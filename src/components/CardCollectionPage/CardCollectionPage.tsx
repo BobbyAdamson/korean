@@ -22,8 +22,38 @@ const CardCollectionPage = ({ allCardData, grouped }: CardCollectionPageProps) =
       : allCardData;
   }
 
-  function getMenu() {
-    function buildCheckboxes() {
+  function deselectAllCategories() { setCategories([]); }
+
+  function selectAllCategories() { setCategories(categories); }
+
+  function handleCategoryChange({ target }) {
+    const categoryToChange = target.name;
+    const isChecked = target.checked;
+
+    if (categoriesToUse.length < 2 && !isChecked) {
+      setCategories(categoriesToUse);
+    }
+
+    const newCategories = isChecked
+      ? [...categoriesToUse, categoryToChange]
+      : categoriesToUse.filter((category) => category !== categoryToChange);
+
+    setCategories(newCategories);
+  }
+
+  return (
+    <div>
+      <h1>Alphabet</h1>
+      {renderMenu()}
+      <CardCollection
+        cardDatas={[...getTranslationData()]}
+        initialLanguage={Languages.English}
+      />
+    </div>
+  );
+
+  function renderMenu() {
+    function renderCheckboxes() {
       return categories.map((category) => {
         return (
           <li key={`${category}-row`}>
@@ -43,36 +73,12 @@ const CardCollectionPage = ({ allCardData, grouped }: CardCollectionPageProps) =
 
     return (
       <nav>
-        <ul>{buildCheckboxes()}</ul>
+        <button type='button' onClick={deselectAllCategories}>Deselect all</button>
+        <button type='button' onClick={selectAllCategories}>Select all</button>
+        <ul>{renderCheckboxes()}</ul>
       </nav>
     );
   }
-
-  function handleCategoryChange(e) {
-    const categoryToChange = e.target.name;
-    const isChecked = e.target.checked;
-
-    if (categoriesToUse.length < 2 && !isChecked) {
-      setCategories(categoriesToUse);
-    }
-
-    const newCategories = isChecked
-      ? [...categoriesToUse, categoryToChange]
-      : categoriesToUse.filter((category) => category !== categoryToChange);
-
-    setCategories(newCategories);
-  }
-
-  return (
-    <div>
-      <h1>Alphabet</h1>
-      {getMenu()}
-      <CardCollection
-        cardDatas={[...getTranslationData()]}
-        initialLanguage={Languages.English}
-      />
-    </div>
-  );
 }
 
 export default CardCollectionPage;

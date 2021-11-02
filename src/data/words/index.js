@@ -2,7 +2,6 @@ import adjectives from "./adjectives";
 import countries from "./countries";
 import occupations from "./occupations";
 import general from "./general";
-import newwords from "./newwords";
 import family from "./family";
 import relationships from "./relationships";
 import food from "./food";
@@ -19,7 +18,6 @@ export default [
   ...relationships,
   ...food,
   ...frequencies,
-  ...newwords,
 ];
 
 export const grouped = {
@@ -29,7 +27,6 @@ export const grouped = {
   family,
   general,
   food,
-  newwords,
   frequencies,
   occupations,
   relationships,
