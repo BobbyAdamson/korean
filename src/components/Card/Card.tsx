@@ -4,16 +4,22 @@ import style from "./style.scss";
 import sharedStyles from "../shared.scss";
 import KeyDownCharacterCode from '../../utilities/enums/KeyDownCharacterCode';
 import Languages from '../../utilities/enums/Languages';
-import languages from "../../data/enums/languages";
+import CardData from "../../utilities/types/CardData";
 
-const Card = (props) => {
+interface CardProps {
+  initialLanguage: Languages;
+  cardData: CardData;
+}
 
-  const [language, setLanguage] = useState(props.initialLanguage === languages.english ? Languages.English : Languages.Korean);
+const Card = ({ initialLanguage, cardData}: CardProps) => {
+  const [language, setLanguage] = useState(initialLanguage);
 
   useEffect(() => {
     window.addEventListener("keydown", toggleOnKeyDown, true);
 
-    return function cleanupEventListener() { window.removeEventListener("keydown", toggleOnKeyDown, true); }
+    return function cleanupKeydownEventListener() { 
+      window.removeEventListener("keydown", toggleOnKeyDown, true); 
+    }
   });
 
   function toggleOnKeyDown({ key }) {
@@ -30,7 +36,7 @@ const Card = (props) => {
   return (
     <div class={`${style.card} ${language}`}>
       <p class={`${style.phrase}`}>
-        {props.translation[language]}
+        {cardData[language]}
       </p>
       <button
         onClick={toggleLanguage}

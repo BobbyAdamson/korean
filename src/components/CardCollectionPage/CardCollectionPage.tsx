@@ -2,21 +2,24 @@ import { h } from "preact";
 import { useState } from "preact/hooks";
 import CardCollection from "../CardCollection/CardCollection";
 import Languages from "../../utilities/enums/Languages";
+import CardData from "../../utilities/types/CardData";
 
-const CardCollectionPage = (props: {
-  grouped: any,
-  allCardData: any[]
-}) => {
-  const categories = Object.keys(props.grouped);
+interface CardCollectionPageProps {
+  allCardData: CardData[];
+  grouped: any;
+}
+
+const CardCollectionPage = ({ allCardData, grouped }: CardCollectionPageProps) => {
+  const categories = Object.keys(grouped);
   const [categoriesToUse, setCategories] = useState(categories);
 
   function getTranslationData() {
     return categoriesToUse
       ? categoriesToUse.reduce((accumulator, category) => {
-          accumulator.push(...props.grouped[category]);
+          accumulator.push(...grouped[category]);
           return accumulator;
         }, [])
-      : props.allCardData;
+      : allCardData;
   }
 
   function getMenu() {
@@ -65,7 +68,7 @@ const CardCollectionPage = (props: {
       <h1>Alphabet</h1>
       {getMenu()}
       <CardCollection
-        translations={[...getTranslationData()]}
+        cardDatas={[...getTranslationData()]}
         initialLanguage={Languages.English}
       />
     </div>

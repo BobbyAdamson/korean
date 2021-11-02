@@ -4,8 +4,15 @@ import Card from '../Card/Card';
 import style from "./style.scss";
 import sharedStyles from "../shared.scss";
 import KeyDownCharacterCode from "../../utilities/enums/KeyDownCharacterCode";
+import CardData from "../../utilities/types/CardData";
+import Languages from "../../utilities/enums/Languages";
 
-const CardCollection = (props) => {
+interface CardCollectionProps {
+  cardDatas: CardData[];
+  initialLanguage: Languages;
+}
+
+const CardCollection = ({ cardDatas, initialLanguage}: CardCollectionProps) => {
 
   const [cardIndex, setCardIndex] = useState(getRandomCardIndex());
 
@@ -20,17 +27,17 @@ const CardCollection = (props) => {
   function setRandomCard() { setCardIndex(getRandomCardIndex()) }
 
   function getRandomCardIndex() {
-    return Math.floor(Math.random() * props.translations.length);
+    return Math.floor(Math.random() * cardDatas.length);
   }
 
   function renderCard() {
     const isCardPresent =
-      props.translations[cardIndex] !== undefined;
+      cardDatas[cardIndex] !== undefined;
 
     return isCardPresent ? (
       <Card
-        translation={props.translations[cardIndex]}
-        initialLanguage={props.initialLanguage}
+        cardData={cardDatas[cardIndex]}
+        initialLanguage={initialLanguage}
       />
     ) : null;
   }
