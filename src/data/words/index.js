@@ -9,29 +9,28 @@ import food from "./food";
 import frequencies from "./frequencies";
 import home from './home';
 
-// export default [
-  // ...countries,
-  // ...family,
-  // ...general,
-  // ...adjectives,
-  // ...home
-  // ...occupations,
-  // ...relationships,
-  // ...food,
-  // ...frequencies,
-  // ...newwords,
-// ];
-export default home
+export default [
+  ...countries,
+  ...family,
+  ...general,
+  ...adjectives,
+  ...home,
+  ...occupations,
+  ...relationships,
+  ...food,
+  ...frequencies,
+  ...newwords,
+];
 
 export const grouped = {
-  // countries,
-  // adjectives,
-  home
-  // family,
-  // general,
-  // food,
-  // newwords,
-  // frequencies,
-  // occupations,
-  // relationships,
+  countries,
+  adjectives,
+  home,
+  family,
+  general,
+  food,
+  newwords,
+  frequencies,
+  occupations,
+  relationships,
 };

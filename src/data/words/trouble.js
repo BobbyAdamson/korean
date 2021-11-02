@@ -1,4 +1,4 @@
-const occupations = [
+const wordsImHavingTroubleWith = [
   ["reporter", "기자"],
   ["researcher", "연구원 (yeonguwon)"],
   ["accountant", "회계사 (hoegyesa)"],
@@ -39,7 +39,7 @@ const occupations = [
   ["magpie", "까치"],
 ];
 
-export default occupations.map(([english, korean], index) => {
+export default wordsImHavingTroubleWith.map(([english, korean], index) => {
   return {
     id: `wo${index}`,
     english,

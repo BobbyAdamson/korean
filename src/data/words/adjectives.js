@@ -1,9 +1,4 @@
 const adjectives = [
-  ["what food do you like", "무슨 음식을 좋아해요"],
-  ["Do you eat breakfast", "아침을 먹어요?"],
-  ["Do you eat out?", "밖에서 먹어요?"],
-  ["With whom do you eat?", "누구하고 먹어요?"],
-  
   ["Cheap", "싸다 -> 싸+ㄴ -> 싼"],
   ["Expensive", "비싸다 -> -> 비싼"],
   ["Quiet", "조용하다  -> 조용하+ㄴ -> 조용한"],
