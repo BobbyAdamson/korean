@@ -29,7 +29,7 @@ describe('Card', () => {
     });
 
     test(`switches language`, () => {
-      context.find('button').simulate('click')
+      context.find('button').simulate('click');
 
       expect(context.find('.languageLabel').text()).toBe("english");
       expect(context.find('.phrase').text()).toBe(mockCard.english);
