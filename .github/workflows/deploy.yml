@@ -23,7 +23,7 @@ jobs:
 
     - name: Build Project
       run: |
-        npm ci
+        npm install
         npm run build --if-present
 
     - name: Reset GIT
