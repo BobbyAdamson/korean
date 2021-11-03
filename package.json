@@ -17,6 +17,8 @@
     ]
   },
   "devDependencies": {
+    "@babel/preset-typescript": "^7.16.0",
+    "@types/jest": "^27.0.2",
     "enzyme": "^3.10.0",
     "enzyme-adapter-preact-pure": "^2.0.0",
     "eslint": "^6.0.1",
@@ -25,10 +27,12 @@
     "jest": "^24.9.0",
     "jest-preset-preact": "^1.0.0",
     "node-sass": "^4.13.1",
-    "preact-cli": "^3.0.0-rc.6",
+    "preact-cli": "^3.3.1",
     "preact-render-spy": "^1.2.1",
     "sass-loader": "^7.3.1",
-    "sirv-cli": "^0.4.5"
+    "sirv-cli": "^0.4.5",
+    "ts-jest": "^27.0.7",
+    "typescript-plugin-css-modules": "^3.4.0"
   },
   "dependencies": {
     "preact": "^10.3.2",
@@ -41,6 +45,7 @@
     "setupFiles": [
       "<rootDir>/tests/__mocks__/browserMocks.js",
       "<rootDir>/tests/__mocks__/setupTests.js"
-    ]
+    ],
+    "transform": {"\\.[jt]sx?$": "babel-jest"}
   }
 }

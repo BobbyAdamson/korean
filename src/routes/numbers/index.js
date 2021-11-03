@@ -51,8 +51,7 @@ const numbers = {
   oneToTen: [1, 10],
   oneToOneHundred: [1, 100],
   oneToOneThousand: [1, 1000],
-  oneToTenThousand: [1, 10000],
-  // hundreds: [100, 200, 300, 400, 500, 600, 700, 800, 900],
+  oneToTenThousand: [1, 10000]
 };
 
 export default Numbers;
