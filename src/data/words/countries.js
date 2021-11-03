@@ -1,13 +1,12 @@
 const countries = [
-  ["country", "nara"],
-  ["america", "miguk"],
-  ["japan", ""],
-  ["korea", ""],
-  ["china", ""],
-  ["germany", ""],
+  ["country", "나라"],
+  ["america", "미국"],
+  ["japan", "일본"],
+  ["korea", "한국"],
+  ["china", "춘국"],
   ["australia", "호주 hoju"],
-  ["spain", ""],
-  ["france", ""],
+  ["spain", "스패인어"],
+  ["france", "프란스"],
 ];
 
 export default countries.map(([english, korean], index) => {
