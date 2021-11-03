@@ -17,8 +17,8 @@ const Card = ({ initialLanguage, cardData}: CardProps) => {
   useEffect(() => {
     window.addEventListener("keydown", toggleOnKeyDown, true);
 
-    return function cleanupKeydownEventListener() { 
-      window.removeEventListener("keydown", toggleOnKeyDown, true); 
+    return function cleanupKeydownEventListener() {
+      window.removeEventListener("keydown", toggleOnKeyDown, true);
     }
   });
 
@@ -27,7 +27,7 @@ const Card = ({ initialLanguage, cardData}: CardProps) => {
   }
 
   function toggleLanguage() {
-    const nextLanguage = 
+    const nextLanguage =
       language === Languages.Korean ? Languages.English : Languages.Korean;
 
     setLanguage(nextLanguage);
@@ -35,18 +35,16 @@ const Card = ({ initialLanguage, cardData}: CardProps) => {
 
   return (
     <div class={`${style.card} ${language}`}>
-      <p class={`${style.phrase}`}>
-        {cardData[language]}
-      </p>
+      <p class={`${style.phrase}`}>{cardData[language]}</p>
+
       <button
         onClick={toggleLanguage}
         class={`${sharedStyles.button} ${sharedStyles.tertiary}`}
       >
         Show other side
       </button>
-      <p>
-        <span class={style.languageLabel}>{language}</span>
-      </p>
+
+      <p><span class={style.languageLabel}>{language}</span></p>
     </div>
   );
 }

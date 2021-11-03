@@ -5,7 +5,7 @@
     "emitDeclarationOnly": true,
     // Ensure that Babel can safely transpile files in the TypeScript project
     "isolatedModules": true,
-    "jsx": "preserve",
+    "jsx": "react-jsx",
     "jsxFactory": "h",
     "jsxFragmentFactory": "Fragment",
     "moduleResolution": "node",

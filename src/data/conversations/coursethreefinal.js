@@ -229,14 +229,3 @@ export default questions.map(([english, korean = "no korean yet"], index) => {
     korean,
   };
 });
-
-/* Verb conjugation:
-
-1. Regular forms: 
-2. Past tense: 
-3. I want to ___: 
-4. I dont: 먹지 않아요.
-5. (something) so (something): 바빠서 안 갔어요
-4. Should we ___: 우리 같이 갈까요
-
-*/
