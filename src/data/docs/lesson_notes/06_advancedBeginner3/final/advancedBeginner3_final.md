@@ -326,7 +326,7 @@ central park 간 적이 있어요 / central park 간 본 적이 있어요 - I ha
 올해 저는 **\_\_\_**겠어요
 
 - 가족 하고 여행 가기
-- 다시 많이 운동하가
+- 운동하가
 - 잘 먹가
 
 For the final:
@@ -357,17 +357,4 @@ For the final:
     - 아직 비행기 표르 사지 않았어요 - I havent bought a plane ticket yet
     - 겨울 전에 갈 거예요 - we will go before winter
 
-- Difficult
-놀라워요 - Surprised
-즐거웠어요 / 즐거워요 / 즐겁다 - Have good time
-웃겼어요. - made me laugh
-웃었어요 - funny
-외로워요 - lonely
-감동작이었어요 - touched
-감동적인 영화 - Impressive movie
-청소 - Cleaning
-빨래 - laundry
-설거지 - wash dishes
-식료품 장보기 - grocery shopping
-쓰레기 버리기 - throwing away trash
-쓰레기 내놓다 - take out the trash
+- Questions for teacher
