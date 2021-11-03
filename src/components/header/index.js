@@ -11,9 +11,6 @@ const Header = () => (
       <Link activeClassName={style.active} href="/lesson_notes">
         Lesson Notes
       </Link>
-      <Link activeClassName={style.active} href="/conversations">
-        Conversations
-      </Link>
       <Link activeClassName={style.active} href="/words">
         Words
       </Link>

@@ -8,19 +8,7 @@ import food from "./food";
 import frequencies from "./frequencies";
 import home from './home';
 
-export default [
-  ...countries,
-  ...family,
-  ...general,
-  ...adjectives,
-  ...home,
-  ...occupations,
-  ...relationships,
-  ...food,
-  ...frequencies,
-];
-
-export const grouped = {
+const groupedWords = {
   countries,
   adjectives,
   home,
@@ -31,3 +19,5 @@ export const grouped = {
   occupations,
   relationships,
 };
+
+export default groupedWords;

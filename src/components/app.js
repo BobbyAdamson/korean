@@ -5,7 +5,6 @@ import Header from "./header";
 
 // Code-splitting is automated for routes
 import Home from "../routes/home";
-import Conversations from "../routes/conversations";
 import Words from "../routes/words";
 import LessonNotes from "../routes/lesson_notes";
 import Numbers from "../routes/numbers";
@@ -29,7 +28,6 @@ export default class App extends Component {
           <Router onChange={this.handleRoute}>
             <Home path="/" />
             <LessonNotes path="/lesson_notes" />
-            <Conversations path="/conversations" />
             <Words path="/words" />
             <Numbers path="/numbers" />
           </Router>

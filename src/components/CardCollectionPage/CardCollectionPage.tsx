@@ -4,13 +4,15 @@ import CardCollection from "../CardCollection/CardCollection";
 import Languages from "../../utilities/enums/Languages";
 import CardData from "../../utilities/types/CardData";
 
+interface GroupedCardData {
+  [name: string]: CardData[];
+}
 interface CardCollectionPageProps {
-  allCardData: CardData[];
-  grouped: any;
+  grouped: GroupedCardData;
   title: string;
 }
 
-const CardCollectionPage = ({ allCardData, grouped, title }: CardCollectionPageProps) => {
+const CardCollectionPage = ({ grouped, title }: CardCollectionPageProps) => {
   const categories = Object.keys(grouped);
   const [categoriesToUse, setCategories] = useState(categories);
 
@@ -20,7 +22,16 @@ const CardCollectionPage = ({ allCardData, grouped, title }: CardCollectionPageP
           accumulator.push(...grouped[category]);
           return accumulator;
         }, [])
-      : allCardData;
+      : getAllCardData();
+  }
+
+  function getAllCardData() {
+    return Object
+      .values(grouped)
+      .reduce((accumulator: CardData[], val: CardData[]) => { 
+        accumulator.push(...val);
+        return accumulator;
+      }, []);
   }
 
   function deselectAllCategories() { setCategories([]); }
@@ -54,24 +65,6 @@ const CardCollectionPage = ({ allCardData, grouped, title }: CardCollectionPageP
   );
 
   function renderMenu() {
-    function renderCheckboxes() {
-      return categories.map((category) => {
-        return (
-          <li key={`${category}-row`}>
-            <label for={`${category}-category`}>
-              {category.toUpperCase()}
-              <input
-                checked={categoriesToUse.includes(category)}
-                type="checkbox"
-                name={`${category}`}
-                onChange={handleCategoryChange}
-              />
-            </label>
-          </li>
-        );
-      });
-    }
-
     return (
       <nav>
         <button type='button' onClick={deselectAllCategories}>Deselect all</button>
@@ -79,6 +72,22 @@ const CardCollectionPage = ({ allCardData, grouped, title }: CardCollectionPageP
         <ul>{renderCheckboxes()}</ul>
       </nav>
     );
+  }
+
+  function renderCheckboxes() {
+    return categories.map((category) => (
+      <li key={`${category}-row`}>
+        <label for={`${category}-category`}>
+          {category.toUpperCase()}
+          <input
+            checked={categoriesToUse.includes(category)}
+            type="checkbox"
+            name={`${category}`}
+            onChange={handleCategoryChange}
+          />
+        </label>
+      </li>
+    ));
   }
 }
 

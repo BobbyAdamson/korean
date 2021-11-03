@@ -2,14 +2,10 @@ import vowels from "./vowels";
 import tensedAndAspirated from "./tensedAndAspirated";
 import complexVowels from "./complexVowels";
 
-export default [
-  ...complexVowels,
-  ...vowels,
-  ...tensedAndAspirated,
-];
-
-export const grouped = {
+const groupedAlphabet = {
   vowels,
   tensedAndAspirated,
   complexVowels,
 };
+
+export default groupedAlphabet;
