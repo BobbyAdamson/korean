@@ -6,7 +6,8 @@ import family from "./family";
 import relationships from "./relationships";
 import food from "./food";
 import frequencies from "./frequencies";
-import home from './home';
+import home from "./home";
+import * as pik5 from "./pik5";
 
 export default [
   ...countries,
@@ -21,13 +22,14 @@ export default [
 ];
 
 export const grouped = {
-  countries,
-  adjectives,
-  home,
-  family,
-  general,
-  food,
-  frequencies,
-  occupations,
-  relationships,
+  ...pik5,
+  // countries,
+  // adjectives,
+  // home,
+  // family,
+  // general,
+  // food,
+  // frequencies,
+  // occupations,
+  // relationships,
 };

@@ -1,0 +1,6 @@
+{
+  "javascript.suggest.enabled": false,
+  "typescript.suggest.enabled": false,
+  "editor.suggest.filterGraceful": false,
+  "markdown.suggest.paths.enabled": false
+}

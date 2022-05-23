@@ -1,6 +1,6 @@
 import { h } from "preact";
-import { useState, useEffect } from 'preact/hooks';
-import Card from '../Card/Card';
+import { useState, useEffect } from "preact/hooks";
+import Card from "../Card/Card";
 import style from "./style.scss";
 import sharedStyles from "../shared.scss";
 import KeyDownCharacterCode from "../../utilities/enums/KeyDownCharacterCode";
@@ -12,33 +12,39 @@ interface CardCollectionProps {
   initialLanguage: Languages;
 }
 
-const CardCollection = ({ cardDatas, initialLanguage}: CardCollectionProps) => {
-
+const CardCollection = ({
+  cardDatas,
+  initialLanguage,
+}: CardCollectionProps) => {
   const [cardIndex, setCardIndex] = useState(getRandomCardIndex());
 
-  useEffect(() => {
-    window.addEventListener("keydown", ({ key }) => {
-      if (key == KeyDownCharacterCode.n) {
-        setRandomCard();
-      }
-    });
-  })
+  function setCardCallback({ key }) {
+    if (key == KeyDownCharacterCode.n) {
+      setRandomCard();
+    }
+  }
 
-  function setRandomCard() { setCardIndex(getRandomCardIndex()) }
+  useEffect(() => {
+    window.addEventListener("keydown", setCardCallback);
+
+    return () => {
+      window.removeEventListener("keydown", setCardCallback);
+    };
+  });
+
+  function setRandomCard() {
+    setCardIndex(getRandomCardIndex());
+  }
 
   function getRandomCardIndex() {
     return Math.floor(Math.random() * cardDatas.length);
   }
 
   function renderCard() {
-    const isCardPresent =
-      cardDatas[cardIndex] !== undefined;
+    const isCardPresent = cardDatas[cardIndex] !== undefined;
 
     return isCardPresent ? (
-      <Card
-        cardData={cardDatas[cardIndex]}
-        initialLanguage={initialLanguage}
-      />
+      <Card cardData={cardDatas[cardIndex]} initialLanguage={initialLanguage} />
     ) : null;
   }
 
@@ -50,6 +56,6 @@ const CardCollection = ({ cardDatas, initialLanguage}: CardCollectionProps) => {
       </button>
     </div>
   );
-}
+};
 
 export default CardCollection;

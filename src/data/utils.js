@@ -1,5 +1,5 @@
 export const toCardCollection = (array, idPrefix) => {
-  return array.map(([english, korean], index) => {
+  return array.map(([korean, english], index) => {
     return {
       id: `${idPrefix}${index}`,
       english,
