@@ -62,20 +62,29 @@
 
 
 
-
+운데
+adjectives ㄴ데 - 무서운데
+verbs 는데/
 
 **Conversations**
-*Movie summary*
+*Drama summary*
 Definitely need to know this
+
+Silent sea
 Come up with one that uses phrases we already know
-1. 제목 :
-2. 감독 :
-3. 주연 :
+1. 제목 : 고요의 바다
+2. 감독 : 최 한 용
+3. 주연 : 배두나
 (요약(summary))
-1. 누가 :
-2. 어디서 :
-3. 어떻게 :
-4. 무엇을 했는지 : 
+1. 누가 : 공유, 허성태
+2. 어디서 : 달
+3. 어떻게 : 무섭고 스리러 이야기예요
+4. 무엇을 했는지 : 팀 신비한 것을 찾기 위해 달에 가요. 달에서 많은 미스터리가 일어나요.
+
+제가 최근 본 드라마는 고요의 바다예요. - The drama which I recently watched was 고요의 바다
+영어 제목은 이에요. - 
+감독은 취항용 감독이에요. - The film director is choi hang yong.
+주인공은 배두나이고, 생물학자예요. The main character is Song Gang Ho and he lives in
 
 *Minari conversation*
 A. ___씨,  ‘미나리’라는 영화 봤어요?  미국에 이민을 온 가족들의 이야기인데,  작은 감동을 주는 영화예요. 그리고 가족과 인생에 대해 많이 생각하게 했어요. 
@@ -96,7 +105,41 @@ B.  네. 이번 주말에 보러 갈게요. 고마워요.
 예) 기생충(parasite) 
 이 영화는 가난한 가족의 이야기예요. 가난한 집 가족이 부잣집에 한 사람씩 들어가서, 모두 그 부잣집에서 일을 하고 기생충처럼 살면서  일어나는 이야기예요.
 
-조금 무섭지만 연기도 좋고 내용도 좋아서 한번 볼 가치가 있어요. 그리고 여러 가지 생각하게 하는 영화예요. 참, 영어 자막도 있으니까 꼭 보세요…etc…. 
+조금 무섭지만 연기도 좋고 내용도 좋고 웃겨서 한번 볼 가치가 있어요. 생각보다 웃겨요
+그리고 여러 가지 생각하게 하는 영화예요. 참, 영어 자막도 있으니까 꼭 보세요
+이 영화를 여러 번 봤어요.
+한국어를 공부하기 전에 영화관에서 봤어요. 아주 좋아했어요. 
+저는 제가 한국어를 테스트하고 싶을 때 기생충을 다시 봐요
+이야기가 너무 좋다.
+봉준호는 천재입니다
+설국열차, 옥자 봤어요.
+마더, 괴물
+주문해요 - i order
+
+Invitation conversation
+A. ___씨,  이번 주 토요일에 시간 있어요? -  Do you have time this Saturday?
+B. 왜요? 특별한 일은 없어요.(=별일 없어요.) - Why? Nothing special. 
+A. 새 한국 영화 시사회에 초대됐어요. 같이 갈래요?  - I was invited to a new Korean movie premiere. Do you want to go with me? 
+B.  네, 보러 가고 싶어요. 어떤 영화예요?  누가 나와요? - Yes, I want to see it. What kind of movie is it? Who’s in the movies?
+___씨가 좋아하는 이 선균씨가 나오는 정치 이야기예요. - It’s political story with 이 선균 who you like. 
+B. 우와…..그런데, 영어 자막은 있어요? - Wow. Does the movie have subtitles in English?
+A. 물론이요.정치 이야기를 좋아하는  ___씨가 보면 좋겠어요. - Of course. I want you who likes political stories to watch “Kingmaker”
+      대통령을 만들려는 두 남자의 이야기예요. - It’s a story that happens while two men making a president. 
+B.  (진짜) 너무 기대돼요. 그럼, 토요일에 만나요. - I can’t wait.  Then, see you on Saturday. 
+
+Late to the theatre
+A. ___씨,  늦어서 미안해요. 많이 기다렸어요? - I’m sorry. I’m late. Did you wait for a long time? 
+B. 네, 좀 오래 기다렸어요. 
+A. 정말 미안해요. 제가 팝콘하고 콜라 살게요. - I’m so sorry. I’ll buy popcorn and coke.
+B. 자리는 어디예요? - Where is our seats?
+A. 제가 좀 늦어서….좋은 자리가 벌써 다 찼어요. 미안해요. - I’m late. So the good seats are already taken. I’m sorry. 
+B. 괜찮아요. 극장이 작아서 잘 보일 것 같아요. - I’m OK. I think we can see it well because theater is small.
+---------------(after watching the movie)--------------------------
+A. 영화 어땠어요?
+B. 배우들의 연기가 너무 좋았어요. 그리고 인생에 대해 생각하게 하는 영화였어요.   
+
+
+
 
 *General questions*
 1. 어떤 영화를 좋아해요?
@@ -132,3 +175,4 @@ B.  네. 이번 주말에 보러 갈게요. 고마워요.
 
 76. \_\_씨가 정하세요.(친구 : 니가 정해) - You decide.
 
+택시운전사 - taxi driver

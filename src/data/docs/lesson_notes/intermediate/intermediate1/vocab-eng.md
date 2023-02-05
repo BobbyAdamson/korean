@@ -1,0 +1,63 @@
+ - New year’s day
+ - The lunar calendar
+ - Rice cake soup
+ - Lunch box
+ - Weather report
+ - owner
+ - Last night
+ - Graduate school student x
+ - taste
+ - Oh! 
+ - Climb, increase, go up
+ - Go up(price)
+ - Go down, decrease
+ - Come down
+ - Come in
+
+ - Match,suit
+ - order
+ - Make friends,go out with
+ - Get a job
+ - Foreign language
+ - foreigner
+ - adult
+ - view
+ - citizen
+ - passenger
+ - Railroad,railway 
+ - end
+ - fire
+ - Fire fighter
+ - Class
+
+ - resident 
+ - inconvenience
+ - Convenience
+ - Be late (학교,회사)
+ - Be late
+ - save,rescue/look for
+ - ask
+ - Turn off,put out
+ - Be put out/be blown out
+ - Turn on
+ - Go on
+ - park
+ - Inspect,check
+ - Clever, bright
+ - Late at night
+ 
+ - brave
+ - young
+ - lonely
+ - Sweet
+ - cloudy
+ - Simply,easily,briefly
+ - For sure, for certain
+ - soon
+ - suddenly
+ - First
+ - Get a fire break out
+ - Take a class
+ - traffic accident
+ - Have a traffic accident
+ - (national)holiday

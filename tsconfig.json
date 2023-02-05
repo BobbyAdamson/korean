@@ -6,7 +6,8 @@
     // Ensure that Babel can safely transpile files in the TypeScript project
     "isolatedModules": true,
     "jsx": "react-jsx",
-    "jsxFragmentFactory": "Fragment",
+    "jsxFactory": "",
+    "jsxFragmentFactory": "",
     "moduleResolution": "node",
     "plugins": [{ "name": "typescript-plugin-css-modules" }],
   },

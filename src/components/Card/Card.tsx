@@ -1,10 +1,9 @@
-import { h } from "preact";
 import { useEffect, useState } from "preact/hooks";
-import style from "./style.scss";
-import sharedStyles from "../shared.scss";
 import KeyDownCharacterCode from '../../utilities/enums/KeyDownCharacterCode';
 import Languages from '../../utilities/enums/Languages';
 import CardData from "../../utilities/types/CardData";
+import sharedStyles from "../shared.scss";
+import style from "./style.scss";
 
 interface CardProps {
   initialLanguage: Languages;

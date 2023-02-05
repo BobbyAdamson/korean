@@ -28,7 +28,7 @@
 28. To be boring
 29. To be moving/touching
 30. heartwarming
-31. (생각하게 하는) Make you thin
+31. Make you thin
 32. Heartbroken
 33. Actor / actress
 34. Main actor

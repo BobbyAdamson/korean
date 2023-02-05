@@ -1,0 +1,1 @@
+머리를 묶다 - tie up hair

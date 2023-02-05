@@ -1,14 +1,14 @@
-import food from "./food";
-import introduction from "./introduction";
-import job from "./job";
-import origin from "./origin";
-import general from "./general";
-import thisthat from './thisthat';
 // import adv2final from './adv2final';
-import advbeg3final from './advbeg3final';
+import indirectQuotes from './indirectQuotes';
 
 export default [
-  ...advbeg3final
+  // ...advbeg3final,
+  // ...describeDevice,
+  // ...technicalIssueQuestions,
+  // ...serviceCenterConversation,
+  // ...technicalProblems,
+  // ...dailyRoutineChanges,
+  ...indirectQuotes
   // ...adv2final,
   // ...general,
   // ...introduction,
@@ -24,10 +24,14 @@ export default [
   // ...thisthat,
 ];
 
-export const grouped = {
-  // adv2final
-  advbeg3final
-  // general,
-  // food,
-  // introduction,
-}
+export const grouped = {}
+//   // adv2final
+//   describeDevice,
+//   technicalIssueQuestions,
+//   serviceCenterConversation,
+//   technicalProblems,
+//   dailyRoutineChanges
+//   // general,
+//   // food,
+//   // introduction,
+// }

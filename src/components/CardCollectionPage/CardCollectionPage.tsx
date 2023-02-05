@@ -13,6 +13,7 @@ interface CardCollectionPageProps {
 const CardCollectionPage = ({ allCardData, grouped, title }: CardCollectionPageProps) => {
   const categories = Object.keys(grouped);
   const [categoriesToUse, setCategories] = useState(categories);
+  const [randomNext, setRandomNext] = useState(false);
 
   function getTranslationData() {
     return categoriesToUse
@@ -47,6 +48,7 @@ const CardCollectionPage = ({ allCardData, grouped, title }: CardCollectionPageP
       <h1>{title}</h1>
       {renderMenu()}
       <CardCollection
+        randomNext={randomNext}
         cardDatas={[...getTranslationData()]}
         initialLanguage={Languages.English}
       />
@@ -74,6 +76,15 @@ const CardCollectionPage = ({ allCardData, grouped, title }: CardCollectionPageP
 
     return (
       <nav>
+        <label for='randomNext'>
+          Randomly select next card: 
+          <input 
+            checked={randomNext} 
+            type="checkbox" 
+            name='randomNext' 
+            onChange={() => setRandomNext(!randomNext)} 
+          />
+        </label>
         <button type='button' onClick={deselectAllCategories}>Deselect all</button>
         <button type='button' onClick={selectAllCategories}>Select all</button>
         <ul>{renderCheckboxes()}</ul>

@@ -8,11 +8,13 @@ import CardData from "../../utilities/types/CardData";
 import Languages from "../../utilities/enums/Languages";
 
 interface CardCollectionProps {
+  randomNext: boolean;
   cardDatas: CardData[];
   initialLanguage: Languages;
 }
 
 const CardCollection = ({
+  randomNext,
   cardDatas,
   initialLanguage,
 }: CardCollectionProps) => {
@@ -31,6 +33,15 @@ const CardCollection = ({
       window.removeEventListener("keydown", setCardCallback);
     };
   });
+
+  function setNextCard() {
+    randomNext ? setRandomCard() : setNextCardInSequence()
+  }
+
+  function setNextCardInSequence() {
+    const nextCardIndex = cardIndex === cardDatas.length - 1 ? 0 : cardIndex + 1
+    setCardIndex(nextCardIndex)
+  }
 
   function setRandomCard() {
     setCardIndex(getRandomCardIndex());
@@ -51,7 +62,7 @@ const CardCollection = ({
   return (
     <div class={style["card-container"]}>
       {renderCard()}
-      <button onClick={setRandomCard} class={sharedStyles.button}>
+      <button onClick={setNextCard} class={sharedStyles.button}>
         Get next card
       </button>
     </div>
