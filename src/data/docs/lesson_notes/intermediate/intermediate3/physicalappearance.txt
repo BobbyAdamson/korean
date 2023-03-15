@@ -1,0 +1,45 @@
+날씬해요, skinny/thin 
+통통해요, chubby
+뚱뚱해요, fat
+키가 커요, tall (height is big)
+키가 작아요, short (height is small)
+머리가 길어요, long hair
+머리가 짧아요, short hair
+목이 길어요, long neck
+목이 짧아요, short neck
+팔이 길어요, long arm
+팔이 짧아요, short arm
+달이 길어요, long leg
+달이 짧아요, short leg
+손가락 길어요, long fingers
+손가락 짧아요, short fingers
+머리가 커요, big head
+머리가 작아요, small head
+잘생겼어요, Handsome
+여드름, (pimples)
+주근깨/점 있어요, (freckles)/(mole)
+주근깨/점 없어요, (freckles)/(mole)
+주름 있어요, (wrinkles)
+주름 없어요, (wrinkles)
+쌍꺼풀 있어요, double eyelids have
+쌍꺼풀 없어요, double eyelids have
+보조개, (dimples)
+보조개가 있어요, (dimples)
+보조개가 없어요, (dimples)
+흰머리, (gray hair)
+쌍꺼풀 있다, (double eyelids)
+얼굴이 동그래요, round face
+얼굴이 커요, big face
+얼굴이 작아요, small face
+입이 커요, big face
+입이 작아요, small face
+눈썹이 짙다, Thick eyebrows
+눈썹이 연하다, thin eyebrows
+눈이 크다, big eyes
+눈이 작다, small eyes
+아마 넓어요, wide forehead
+이마 좁아요, narrow forehead
+코가 높아요, high nose
+코가 낮아요, low nose
+입술이 두꺼워요 / 입술이 두껍다, lips are thick
+입술이 얇아요, lips are thin

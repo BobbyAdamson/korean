@@ -1,0 +1,79 @@
+양말, "socks"
+머플러(목도리)/스카프, "scarf"
+반지, "ring"
+귀걸이, "earring"
+머리띠, "headband"
+원피스, "one piece (represented as a dress)"
+장갑, "gloves"
+안경, "glasses"
+시계, "watch "
+끼다, "Wear(gloves,glasses..)"
+차다, "Wear(a watch)"
+하다, "Wear(earrings,necklace..)"
+들다, "Hold(a bag)"
+메다, "Carry(on a shoulder)"
+이마, "forehead"
+눈썹, "eyebrows"
+쌍꺼풀, "Double eyelid"
+입술, "lips"
+점, "spot"
+내성적이다, "introvert"
+외향적이다, "extrovert"
+꼼꼼하다, "meticulous"
+활발하다, "active"
+창문, "Window"
+싸우다, "Fight,quarrel"
+말싸움을 하다, "quarrel"
+다투다, "quarrel"
+사과하다, "apologize"
+서두르다, "To be in hurry"
+도와주다, "help"
+닮다, "resemble"
+찾다, "find"
+지내다, "Spend time doing something"
+좁다, "narrow"
+세다, "strong"
+다르다, "different"
+비슷하다, "similar"
+동그랗다, "round"
+짙다, "dark"
+연하다, "Soft/light"
+얇다, "thin"
+두껍다, "thick"
+항상, "always"
+혹시, "perhaps"
+조용히, "quietly"
+성격이 급하다, "hasty"
+속이 좁다, "Narrow-minded"
+마음이 넓다, "Broad-minded"
+말이 없다, "silent"
+말이 많다, "talkative"
+말을 잘 듣다, "obedient"
+그저 그렇다, "So-so"
+마음이 넓다, broad-minded
+속이 좁다=마음이 좁다, narrow-minded
+외향적이다, extrovert
+내성적이다, introvert
+성격이 급하다, hasty, impatient
+느긋하다, laid back
+꼼꼼하다, thorough, organized
+덜렁거리다, careless
+적극적이다, active
+소극적이다, passive
+자상하다, thoughtful, considerate
+무뚝뚝하다, curt
+고집이 세다, stubborn
+활발하다, outgoing, cheerful
+성격이 좋다 / 나쁘다, Good/bad personality
+성격이 밝다 / 어둡다, Bright/dark personality
+얌전하다, meek
+소심하다, timid
+다혈질이다, short-tempered
+부정적이다, negative
+까다롭다, picky
+예민하다, sensitive
+사교적이다, sociable
+정직하다, honest
+겸손하다, humble
+긍정적이다, positive
+침착하다, calm, self-possessed
