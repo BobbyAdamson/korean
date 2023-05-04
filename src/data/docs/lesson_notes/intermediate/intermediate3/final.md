@@ -225,6 +225,14 @@ Probably on it:
   - 
 - Talk about resemblance
 
+QUESTION FOR TEACHER
+
+형제나 자매가 있나요?
+외모는 가족 중에 누구와 닮았어요?
+외모는 어디가 닮았어요?
+성격은 누구와 닮았어요?
+성격은 어떤 부분이 닮았어요?
+
 
 To study:
 - Which clothing articles go with which verbs - done
@@ -236,13 +244,7 @@ To study:
   - Describe that i look simliar to my mom and dad
 
 
-QUESTION FOR TEACHER
 
-형제나 자매가 있나요?
-외모는 가족 중에 누구와 닮았어요?
-외모는 어디가 닮았어요?
-성격은 누구와 닮았어요?
-성격은 어떤 부분이 닮았어요?
 
 
 
