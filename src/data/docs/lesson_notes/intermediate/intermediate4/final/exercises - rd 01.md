@@ -41,8 +41,16 @@
 16. Describe 2 ways navigation is bad
 17. 세계의 10대 발명품은 뭐라고 생각해요? - What do you think are the top 10 inventions in the world?
 18. 내가 생각하는 최고 발명품은 뭐예요? - What do you think is the best invention?
+    - 인터넷이 최고의 발명품이라고 생각해요
 19. 좋은 점은 뭐예요? - What are the good points
+    - 공부할 때, 질문 있으면, 인터넷이 정답 있어요
+    - 
+    - 
 20. 좋지 않은 점이 있다면, 뭐예요? - if there are bad things, what are they?
+    - 가끔 좀 위혐해요
+    - 나쁜 사람들은 비밀번호를 훔칠 수 있습니다
+    - 그리고 이상한 비디오 많아요
+    - 조심하면 돼요
 21. 언젠가 발명되면 좋은 아이템이 있어요?  - Will good items be invented one day?
    뭐예요? - What are they?
    왜요? - Why?

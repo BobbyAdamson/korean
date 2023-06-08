@@ -204,6 +204,7 @@ Bad things about technology - 단점
 요즘 ChatGPT을 공부하기 위해 사용해요 - I use Chat GPT to study these days
 chatGPT는 내가 이 시험을 위해 공부하는 것을 도와주었습니다 - chat GPT helped me study for this test
 ChatGPT에게 기술에 대한 질문을 하라고 했습니다. - I asked ChatGPT me to ask questions about technology
+- 미래는 좋을 거라고 생각해요 - I think the future will be good
 
 
 # Extra vocab
@@ -223,6 +224,10 @@ ChatGPT에게 기술에 대한 질문을 하라고 했습니다. - I asked ChatG
     - 귀찮잖아
 바꾸면 돼 - its fine to exchange them, itll be ok to exhcange them
 변기 - toilet
+미래 - future
+별하다 - change
+유용해요 - useful
+위험하다 - dangerous
 
 # Likely to be on the test
 
