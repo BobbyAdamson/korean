@@ -1,0 +1,40 @@
+incident, 사건
+crossroad, 사거리
+cancel, 취소
+Medical treatment, 치료
+Roller coaster, 롤러코스터
+Speed per hour, 시속
+Air(midair), 공중
+thief, 도둑
+lie, 거짓말
+calendar, 달력
+examination, 검사
+signal, 신호
+To happen, 일어나다
+To bump, 받다
+To be confronted with, 당하다
+To be hospitalized, 입원(하다)
+To be discharged, 퇴원(하다)
+To get robbed, 도둑맞다
+to be hung, 걸리다
+To wipe, 닦다
+To do the dishes, 설거지하다
+To place/to put, 두다/놓다
+To be put, 놓이다
+To move, 움직이다
+To lie down, 눕다
+To be opened, 열리다
+To be shut, 닫히다
+To wash (hair), 감다
+To brush (hair), 빗다
+To change (clothes), 갈아입다
+To stand, 서다
+simple, 간단하다
+messy, 엉망이다
+fortunate, 다행이다
+Every + N, N + 마다
+Upside down, 거꾸로
+Specifically, 자세히
+A while ago / a moment ago, 아까
+To close a store, 문을 닫다
+To be injured, 다치다

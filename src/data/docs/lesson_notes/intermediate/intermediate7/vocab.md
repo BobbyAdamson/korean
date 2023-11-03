@@ -1,0 +1,44 @@
+설거지 - dishwashing
+스트레스 - Stress
+주사를 맞다 - To get injected (injection)
+치과 - Dental clinic
+집들이 - Housewarming party
+기분 - mood
+통화하다 - To talk over the phone
+화장하다 - To put one makeup
+이사하다 - To move (house)
+옮기다 - To move, infect
+참다 - To endure
+가져오다 - To bring
+떠나다 - To leave
+똑같다 - same
+괴롭다 - painful
+부끄럽다 - Shy/shameful
+부럽다  - envy
+약하다 - weak
+강하다 - Strong, powerful
+깜빡 - carelessly
+깜빡하다 - To forget, blink 
+깜빡 잊어버리다 - To forget carelessly
+늦게 - late
+스트레스(를) 받다 - To get stressed
+밥하다 - To cook(meal/rice)
+넘어지다  - To trip/fall
+정신(이) 없다 - Hectic,swamped
+차가 밀리다 - Stuck in traffic,traffic jam
+길이 막히다 - Stuck in traffic
+한가하다 - Free(time)
+잃다/잃어버리다 - lose
+잊다/잊어버리다  - forget
+웃다 - To Laugh / smile
+비웃다 - To laugh at / tease
+N +따위 - The Like of + N
+(이/가) 빠지다 - To fall out 
+–에 빠지다 - To fall into
+대출을 받다 - To get a loan
+주먹 - fist
+(을/를) 쥐다 - To clench/grip
+
+고생하다 - Serious hardship is happening
+수고하다 - things are tough/put in an effort
+어쩌지요? - what should I do?
