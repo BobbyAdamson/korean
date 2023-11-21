@@ -38,3 +38,32 @@ To fall into
 To get a loan
 fist
 To clench/grip
+
+raw ribs
+seasoned ribs
+just right, it was perfectly good
+talking to me / strike up a conversation
+nagging
+friends lies
+next door
+gossip/gossiping
+miss/lose/throw away (miss a flight)
+Memory/to remember
+
+i lose track of time
+noise
+alarm clock
+dust
+reject/turn down
+enough
+
+explain in detail
+can i borrow a pen
+can you carry this bag
+can you switch chairs
+can you contact the teacher for me
+send the mail now
+can you carry this with me
+wait a minute
+can you switch this with a new one?
+can you wipe here one time?

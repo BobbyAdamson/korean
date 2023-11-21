@@ -39,6 +39,38 @@ N +따위 - The Like of + N
 주먹 - fist
 (을/를) 쥐다 - To clench/grip
 
+EXTRA
 고생하다 - Serious hardship is happening
 수고하다 - things are tough/put in an effort
 어쩌지요? - what should I do?
+기내에서는 미소가 차분합니다 - miso is calm on board
+증명서를 가지고 가야 돼요 - I have to bring certificate 
+저는 인복이 있어요 - I have good fortune
+
+생갈비 - raw ribs
+양념 갈비 - seasoned ribs
+딱 좋아요 - just right, it was perfectly good
+말을 걸어요 - talking to me / strike up a conversation
+잔소리 - nagging
+친구의 거짓말 - friends lies
+소음 - noise
+옆집 - next door
+먼지 - dust
+거절하다 - reject/turn down
+험담/험담하다 - gossip/gossiping
+기억/기억하다 - Memory/to remember
+충분히 - enough
+자명종 - alarm clock
+놓치다 - miss/lose/throw away (miss a flight)
+시간 가는줄 몰랐다 - i lose track of time
+
+자세하게 설명하다 - explain in detail
+볼펜 좀 빌리다 - can i borrow a pen
+이 가방을 좀 받다 - can you carry this bag
+자리 좀 바꾸다 - can you switch chairs
+저 대신 선생님께 연락 좀 하다 - can you contact the teacher for me
+지금 메일 보내다 - send the mail now
+이것 좀 같이 들다(carry) - can you carry this with me
+잠깐 기다리다 - wait a minute
+새 걸로 바꾸다 - can you switch this with a new one?
+여기 한번 닦다(wipe) - can you wipe here one time?
