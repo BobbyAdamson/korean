@@ -1,3 +1,4 @@
+소문 - rumor
 설거지 - dishwashing
 스트레스 - Stress
 주사를 맞다 - To get injected (injection)
@@ -46,6 +47,11 @@ EXTRA
 기내에서는 미소가 차분합니다 - miso is calm on board
 증명서를 가지고 가야 돼요 - I have to bring certificate 
 저는 인복이 있어요 - I have good fortune
+스트레스 쌓여요 (쌓이다) - Stress is stacking up
+스트레스 풀다 - Stress is relaxed
+문제 풀다 - Problem is relieved
+긴장 풀다 - Tension is released
+
 
 생갈비 - raw ribs
 양념 갈비 - seasoned ribs
@@ -74,3 +80,67 @@ EXTRA
 잠깐 기다리다 - wait a minute
 새 걸로 바꾸다 - can you switch this with a new one?
 여기 한번 닦다(wipe) - can you wipe here one time?
+
+주소 - address
+물건 - goods
+고장나다 - broken
+벌다 - earn (돈)
+편하다 - comfortable/convenient
+
+찍다 - 찍기다 - take a picture, a picture was taken
+듣다 - 들리다 - to hear, to be heard
+열다 - 열리다 - to open, to have been opened
+팔다 - 팔리다 - sell, to have been sold
+보다 - 보이다 - see, to have been seen
+끊다 - 끊기다 - cut off, to be cut off
+풀다 - 풀리다 - undo, to be undone
+쌓다 - 쌓이다 - stack up, to have been stacked up
+잡다 - 잡히다 - catch, to have been caught
+막다 - 막기다 - block, tobe blocked
+바꾸다 - 바뀌다? - change, to be been changed
+정하다 - 정해지다 - to decide, to be decided
+쏟다 - 쏟아지다 - spill/to be spilled
+쓰여지다: to be written
+켜지다: to be turned on
+쏟아지다: to spill over
+꺼지다: to be turned off/to go off
+끊어지다: cut off
+깨지다: break down/to be broken (glass)
+누러지다: fall down
+지워지다: to be erased
+지켜지다: to be kept/protected
+당겨지다: to be pulled
+만들어지다
+보내지다: to be sent
+주어지다: to be given
+더해지다: to be added
+부서지다: to be broken (furniture or machine)
+이뤄지다: to have come true
+지어지다: to have been built
+
+동사 - verb
+형용사 - adjective
+문장 - sentence
+예문 - example/sample sentence
+과거 - past
+예 - example
+주제 - topic
+이유 - reason/cause/grounds for
+조심하다 - careful
+건강 - health
+야근하다 - work overtime
+미리 - in advance (미리 준비해요)
+쫓겨나다 - to be thrown out/expelled/kicked out
+물가 - price
+질기다 - tough
+
+깜짝 놀랐어요 - I was suddenly surprised
+예상하다 - to expect/anticipate/foresee
+물어보다 - to ask/inquire
+어떻게 된 일이에요? - what happened? Whats the matter?
+귀찮다 - its bothersome/annoying/inconveniencing
+복잡하다 - complicated
+조급하다 - impatient
+산책하다 - go for a stroll
+재택근무하다 - work from home
+신문 - newspaper

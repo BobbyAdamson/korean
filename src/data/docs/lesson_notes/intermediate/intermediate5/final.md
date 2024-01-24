@@ -55,6 +55,7 @@ Grammar
     - Can combine 는지 to offer two options:
         - 날씨가 좋은지 나쁜지 알아요?
 
+
 Other words:
 잃어버리다 (잃어버렸어요) - to lose
 경험 - experience

@@ -1,3 +1,4 @@
+rumor
 dishwashing
 Stress
 To get injected (injection)
@@ -67,3 +68,40 @@ can you carry this with me
 wait a minute
 can you switch this with a new one?
 can you wipe here one time?
+
+take a picture, a picture was taken
+to hear, to be heard
+to open, to have been opened
+sell, to have been sold
+see, to have been seen
+cut off, to be cut off
+undo, to be undone
+stack up, to have been stacked up
+catch, to have been caught
+block, to be blocked
+change, to be been changed
+to decide, to be decided
+spill/to be spilled
+
+to be written
+to be turned on
+to be turned off/to go off
+break down/to be broken (glass)
+fall down
+to be erased
+to be kept/protected
+to be pulled
+to be made
+
+I was suddenly surprised
+to expect/anticipate/foresee
+to ask/inquire
+what happened? Whats the matter?
+its bothersome/annoying/inconveniencing
+complicated
+impatient
+go for a stroll
+work from home
+newspaper
+
+what can I do?

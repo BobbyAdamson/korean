@@ -72,12 +72,74 @@ Express regret
         6. 선생님은 학생들에게 숙제를 내게 하셨어요.  - The teacher had the student turn in their homework.
         7. 엄마가 아이에게 옷을 입게 했어요.  - The mother made the child wear clothes.
         8. 그 친구는 나를 웃게 만들어요/=해요. - The friend makes me laugh.
-6. Passive form verbs - probably less important (although it is the entire content of lesson 4... evaluate later)
+6. Being made to do something when you have not willed/intended it
+    - V + -게 되다 
+    - Example:
+        1. 아파서 입원했어요. BECOMES....
+        2. 교통사고가 나서 입원하게 됐어요. 
+7. Passive form verbs - probably less important (although it is the entire content of lesson 4... evaluate later)
     1. No 받침: usually 이
     2. ㄹ: 리
     3. ㄴ, ㅁ, ㅅ, ㅊ: 기
     4. ㄱ, ㄷ, ㅂ, ㅈ: 히
-
+    - Exception: V + 아/어지다
+        - This form is used when the normal passive endings cannot be applied
+        - Slides
+            - 정하다(decide) -(을/를) 정해요 => 정해지다(be decided) -(이/가) 정해져요
+            - 동사 + 아/어지다 : passive form
+            - 형용사 + 아/어지다 : change
+        - Lessons:
+            - https://www.youtube.com/watch?v=NpCL6YLvmf4
+            - https://hillslearning.zoom.us/rec/play/jYm6fCLTOVWr0cq2vxTJ1Bbfe_wlRtH41h3gvmh2q-JJA9TFyn-2WGcr3WLjjFKQFyweTDu0St66aeCA.hsfsvd1Uwb3LbNc3 ~15min
+        - The verbs that use this form must be memorized. That's kind of all there is to it. Here are some:
+            - 정해지다: come to a conclusion
+            - 쓰여지다: to be written
+            - 켜지다: to be turned on
+            - 쏟아지다: to spill over
+            - 꺼지다: to be turned off/to go off
+            - 끊어지다: cut off
+            - 깨지다: break down/to be broken (glass)
+            - 누러지다: fall down
+            - 지워지다: to be erased
+            - 지켜지다: to be kept/protected
+            - 당겨지다: to be pulled
+            - 만들어지다
+            - 보내지다: to be sent
+            - 주어지다: to be given
+            - 더해지다: to be added
+            - 부서지다: to be broken (furniture or machine)
+            - 이뤄지다: to have come true
+            - 지어지다: to have been built
+8. No matter what, I do a thing
+    - (아무리) V+아/어도 
+    - Examples:
+        - 아무리 먹어도 배가 고파요. -> even if I eat, Im still hungry (I'm always hungry)
+        - 아무리 봐도 모르겠어요 -> Even if I look, I still don't know it. (Its hard for me to understand)
+        - 나는 아무리 바빠도 아침을 꼭 먹어요 -> Even when I'm busy, I still eat breakfast
+9. Doing X is Y
+    - 동사 + 기 + 형용사
+    - Examples:
+        - 한국어로 말하기 어려워요
+        - 뉴욕에서 살기 재미있어요
+10. Sharing stories/gossip - I heard from X that Y
+    - Form 1
+        - 1. V +(ㄴ/는)다고 들었는데, 어떻게 된 일이에요?
+    - Form 2 (Intermediate korean 5)
+        - 사람에서 들었는데 X-대요
+        - 신문 봤는데 X-대요
+11. Explaining reasons (거든요) - Lesson 7
+    - Indicating a reason that the listener is unaware of
+        - A. 오늘 뭐 해요?
+        - B. 집에 있을 거예요. 친구가 오거든요. 
+    - Used to preface/introduce/suggest/refuse something. Provides a hint that the speakre has more to say
+        - 1
+            - A. 롯데 호텔이 어디에 있어요?
+            - B. 이 길로 쭉 가면 은행이 나오거든요. 은행 옆에 있어요. 
+        - 2
+            - A. 내일 존하고 밥 먹기로 했거든요. 같이 만날래요?
+            - B. 그래요? 같이 만나요. 
+    - When its mid sentence it expresses a conditional statement
+        - 배가 고프거든 먼저 식사 하세요 - if you're hungry, eat first
 
 **THINGS AS A RESULT OF BEING BUSY**
 1. 정신이 없었어요. - I lost my mind
