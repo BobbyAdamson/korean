@@ -44,7 +44,7 @@ to take and give (honorific)
 sincerely/truly
 to show a lot of effort
 to be closed/holiday
-shorten working house
+shorten working hours
 normal
 return to
 enquiry/questions

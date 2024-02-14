@@ -48,3 +48,25 @@
 정상 - normal
 복귀하다 - return to
 문의 사항 - enquiry/questions
+
+상담하다 - consult
+먼저 실례할게요 - (courteous) I'll excuse myself first (more formal)
+먼저 가 볼게요 - (courteous) I'll going first (more casual)
+이따가 - later (이따가 영화 보러 갈래?) more casual than 나중 which is more formal
+외출하다 - to go out/to leave the house (we goin out)
+공사하다 - construction
+독서 - reading books usuall in context of leisure, study or personal development
+모임 - big friendly meeting for visiting or drinks or eating - look into this more
+동창모임 - alumni reunion
+영상 - video/visual content, online videos/creative visuals/educational materials
+줌으로 (영상으로) 동창모임
+동호회 - club/specialized interest society
+라이브 방송하다 - live broadcast/going live
+(라방중) - contraction of above, used to convey someone is currently engaged in a live broadcast
+그림 그리다 - paint a painting
+차를 따르다 - follow a car
+밀린 숙제 - undone homework 
+약속이 - appointment
+전시 - exhibition (art)
+미식 축구 - american football
+블프 - black friday

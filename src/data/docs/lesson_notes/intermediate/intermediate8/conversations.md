@@ -14,3 +14,12 @@ A. 그럼, 비행기 티켓이랑 호텔부터 정합시다. - (Then, let’s de
 B. 그래요, 그렇게 하기로 해요. - (OK. Let’s do that.)
 A. 그리고 한국에 가기 전에 맛집도 선생님에게 물어봅시다.   - (And let’s ask the teacher about good restaurants before we go to Korea. )
 B. 좋아요. 다음 주 수업이 끝난 후에 선생님에게 여쭤봐요. - (OK. Let’s ask the teacher after class next week.
+
+### 회화 (lesson 01)
+A. 여보세요?
+B. 네. 한국전자입니다
+A. 얀녕하세요? 저는 서울컴퓨터 김재민 대리입니다. 이민호 과장님 자리에 계십니까?
+B. 지금 회의하시는 중인데요
+A. 언제쯤 통화가 가능할까요?
+B. 글쎄요. 잘 모르겠는데. 메모 남겨 드릴까요?
+A. 네. 제가 조금 전에 서류를 보내 드렸는데 검토하신 후에 전화 좀 해 달라고 전헤 주세요
