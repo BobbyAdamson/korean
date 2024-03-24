@@ -70,3 +70,6 @@
 전시 - exhibition (art)
 미식 축구 - american football
 블프 - black friday
+
+등산 - hiking
+결심 - resolution

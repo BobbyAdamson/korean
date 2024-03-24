@@ -23,3 +23,34 @@ B. 지금 회의하시는 중인데요
 A. 언제쯤 통화가 가능할까요?
 B. 글쎄요. 잘 모르겠는데. 메모 남겨 드릴까요?
 A. 네. 제가 조금 전에 서류를 보내 드렸는데 검토하신 후에 전화 좀 해 달라고 전헤 주세요
+
+
+### Lesson 03 - setting up a meeting via phone call
+
+### Lesson 04 - business meeting conversation
+A. 지난번 중국 출장 결화를 보고드리겠습니다.  - I'd like to report on the result of the last business trip to China.
+    담당자 장웨이 씨를 만나서 회의를 했는데 우리 제품이 마음에 든다고 합니다 - We had a meeting with 장웨이 씨 who’s in charge, and he said that he likes our products.
+B. 아, 그래요? 잘됐네요 - We had a meeting with 장웨이 씨 who’s in charge, and he said that he likes our products.
+A. 다음 달 15일에 계약을 하기로 했습니다. - We've decided to make a contract on the 15th of next month
+    계약 하기 전에 장웨이 씨가 우리 회사를 방문하겠다고 합니다 - 장웨이 씨 said he’ll visit our company before we make the contract.
+B. 정 대리, 수고 많았습니다. - Assistant manager(대리) 정, you've done a lot. 
+    그럼, 준비 잘해 주세요 - Then, please get prepared well.
+
+### Lesson 04 - conversations about missing a plan/changing a plan for some reason
+
+
+
+
+2?
+3
+
+
+
+
+
+1
+
+
+
+
+2
