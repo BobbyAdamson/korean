@@ -57,6 +57,7 @@
 돈관리 - money management
 한달에 - during 1 month
 카드 값이 - card value (how much money on the card)
+값이 - value/cost
 
 ---
 
