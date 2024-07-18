@@ -22,6 +22,14 @@ Refer to Active Korean 4-8
        - 아까 내가 마시던 커피 어디에 있어요? - Where’s the coffee I was drinking earlier?
      - Something you used to do:
        - 이 차는 아빠가 타던 거예요. - This car is what my father used to drive
+2. ㄹ 만해요
+   - When something is worth doing
+     - 한번 볼 만해요 - It's worth trying one time/worth seeing one time
+     - 먹을 만해요 - its worth eating
+       - = 먹어 볼 만해요 - equivalent
+3. 었었어요
+   - When you USED to do something
+     - 고기를 먹었었어요
 
 ## Phrases
 

@@ -56,4 +56,9 @@
 도로 - street
 상점 - shop
 역사 - history
-술잔을 기울이다 - Have a drink
+술잔을 기울이다 - Have a drink <- how do I use this???
+
+ExTRA
+걷다 - walk, tread
+참다 - bear, endure, stand, tolerate, be patient
+근처 - neighborhood/vicinity
