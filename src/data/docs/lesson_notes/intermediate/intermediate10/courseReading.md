@@ -11,9 +11,11 @@ It is a famous tourist destination worth visiting for both Koreans and foreigner
 At the Korean Folk Village, you can see the lifestyles of people from old times, and at the marketplace, various foods and daily necessities are sold, making it a place where everyone can have fun.
 
 서울에서 가는 방법은 직행버스나 전철을 이용하면 됩니다.
-To get there from Seoul, you can take a direct bus or the subway. The direct bus usually takes about 1 hour and 30 minutes, and for the subway, take Line 1 to Suwon Station and then use the free shuttle bus to the Folk Village.
+To get there from Seoul, you can take a direct bus or the subway.
 
 직행버스는 보통 1시간 30분 정도 걸리고, 전철은 1호선 수원행을 타고 수원역에서 내려서 민속촌으로 운행하는 무료 셔틀버스를 이용하면 됩니다.
+The direct bus usually takes about 1 hour and 30 minutes, and for the subway, take Line 1 to Suwon Station and then use the free shuttle bus to the Folk Village.
+
 셔틀버스는 수원역 4번 출구로 나와서 조금 걸어가면 종합 관광안내소가 있는데 그곳에서 무료 승차권을 받아서 셔틀버스를 타면 민속촌까지 약 30분 정도 걸립니다.
 The shuttle bus can be taken by coming out of exit 4 at Suwon Station and walking a little to the comprehensive tourist information center, where you can get a free ticket for the shuttle bus. The shuttle bus ride to the Folk Village takes about 30 minutes.
 
