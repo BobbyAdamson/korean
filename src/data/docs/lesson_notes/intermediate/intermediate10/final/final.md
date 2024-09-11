@@ -3,6 +3,13 @@
 LOOK UP ANSWERS TO LESSON 6 HOMEWORK
 UNDERSTAND THE DIFFERENEC BETWEEN THE 보니까
 
+던 -
+ㄹ 만해요 -
+었었어요 -
+아/다/고 보니까
+나운 같아요
+ㄴ/는 편이에요
+
 ## Course plan:
 
 사물을 수식하고 어떤 용도로 사용되었는지(사용되는지) 설명하기
@@ -128,3 +135,47 @@ Summary:
 아/어 보니까: Used for insights or conclusions based on trying or experiencing something for the first time.
 고 보니까: Used for realizations or conclusions after completing an action or experiencing something.
 다 보니까: Used for outcomes or changes that occur as a result of ongoing or repeated actions.
+
+오랜 만네 보내요
+
+0:06
+
+회사에 다려고 있어요
+
+0:11
+애니씨 언제 한국에 왔어요?
+
+0:13
+일주일 전에요
+
+0:15
+왔나니까 옛날 생각이나요
+
+0:23
+같이 공부하던 친구들은 어떤지 궁금합니다?
+Im curious how our frineds we used to study with are
+
+0:28
+sometimes I see andrew
+
+0:30
+when it was class you saw him every day right?
+
+:34
+yeah, andrew married a korean girl so now hes in korea
+
+:39
+I heard 리에 becmae a musical actor
+
+:44
+thats so cool, she was good at singing she was like a singer
+
+:50
+do you remember michael?
+
+0:52
+if hes not on holiday hes taking pictures? How long has it been since he went on holiday? he goes everywhere
+
+it sounds like everyone is doing well
+
+call me some time
