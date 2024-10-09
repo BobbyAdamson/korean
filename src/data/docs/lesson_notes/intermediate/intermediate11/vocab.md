@@ -52,7 +52,7 @@ N박 - staying the night
 내리다 - get off
 이곳저곳 - here and there
 독특하다 - unique
-폭포 - fall
+폭포 - waterfall
 장터 - marketplace
 우비/비옷 - raincoat
 운행하다 - to runa round
