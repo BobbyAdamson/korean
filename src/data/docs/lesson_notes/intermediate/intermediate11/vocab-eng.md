@@ -72,7 +72,7 @@ to miss
 to give birth to
 
 how to use
-fall
+폭포 - fall
 실컷
 우선 - anyway
 짓다 - to name
@@ -81,6 +81,10 @@ late
 anyway - 어쨌든
 a certain - 한+Noun
 서두르다 - to be in a hurry
+낳다 - to give birth to
+(기간+)-말 - late
+고생 -suffering/hardship
+반하다 -to fall in love
 
 pronounce
 계획

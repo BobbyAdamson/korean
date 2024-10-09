@@ -66,6 +66,31 @@ The Korean grammar form -더라고요 is used to express something the speaker e
     - 지난 주에 배웠던 문법이 너무 어려워요.
     - 옛날에 좋아했던 사람이에요.
 
+Grammar points and examples of each
+
+- 더라고요
+  - 날씨가 갑자기 많이 추워지더라고요
+  - 음식을 먹어 보니까 생각보다 맵더라고요
+- 을까 해요
+  - 네년에 가족하고 한국에 갈까 해요
+  - 시간이 있으면 친구를 만날까 해요.
+- ㄹ 테니까
+  - 내일은 많이 더울 테니까 집에서 쉬는 게 어때요?!
+  - 비가 올 테니까 우산을 가져가세요
+- ㄹ 뻔했어요
+  - 배가 고파서 죽을 뻔 했어요
+  - 오늘 회사에 왔을 때 다른 차를 칠 뻔했어요
+- V + 다가
+  - 설거지 하다가 전화 받았어요
+  - 집에 가다가 갑자기 친구를 만났어요
+- 자마자
+  - 졸업하자마자 가족하고 저녁 먹었어요
+  - 여친 처음 만나자마자 반했어요
+- 던
+  - 고향에 갔을 때 자주 가던 식당이 없었어요
+  - 마시던 커피가 어디 갔어요?
+- ## 에다 + 까지
+
 NOTES
 Memorize the new words in homework from last time
 Practice making sentences with 뻔했어요 and
